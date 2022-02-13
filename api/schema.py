@@ -60,6 +60,24 @@ class CreatePortfolio(graphene.Mutation):
         return CreatePortfolio(portfolio=new_portfolio)
 
 
+class UpdatePortfolio(graphene.Mutation):
+    portfolio = graphene.Field(PortfolioType)
+
+    class Arguments:
+        id = graphene.ID()
+        name = graphene.String()
+        description = graphene.String()
+    
+    def mutate(self, info, id, name, description):
+        p = Portfolio.objects.get(id=id)
+    
+        p.name = name
+        p.description = description
+        p.save()
+        
+        return UpdatePortfolio(portfolio=p)
+
+
 class Query(graphene.ObjectType):
     stocks = graphene.List(StockType)
     portfolios = graphene.List(PortfolioType)
@@ -81,4 +99,5 @@ class Query(graphene.ObjectType):
 
 class Mutation(graphene.ObjectType):
     create_portfolio = CreatePortfolio.Field()
+    update_portfolio = UpdatePortfolio.Field()
 schema = graphene.Schema(query=Query, mutation=Mutation)
