@@ -41,6 +41,25 @@ class TradeType(DjangoObjectType):
             'stock_symbol',
         )
 
+
+class CreatePortfolio(graphene.Mutation):
+    portfolio = graphene.Field(PortfolioType)
+
+    class Arguments:
+        name = graphene.String()
+        description = graphene.String()
+        initial_account_balance = graphene.Int()
+        account_balance = graphene.Int()
+
+    def mutate(self, info, name, description, initial_account_balance):
+        new_portfolio = Portfolio(name=name, description=description,
+                                    initial_account_balance=initial_account_balance,
+                                  account_balance=initial_account_balance)
+                                  
+        new_portfolio.save()
+        return CreatePortfolio(portfolio=new_portfolio)
+
+
 class Query(graphene.ObjectType):
     stocks = graphene.List(StockType)
     portfolios = graphene.List(PortfolioType)
@@ -52,5 +71,5 @@ class Query(graphene.ObjectType):
     def resolve_trades(self,info):
         return Trade.objects.all()
 class Mutation(graphene.ObjectType):
-    pass
+    create_portfolio = CreatePortfolio.Field()
 schema = graphene.Schema(query=Query, mutation=Mutation)
