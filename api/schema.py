@@ -41,3 +41,16 @@ class TradeType(DjangoObjectType):
             'stock_symbol',
         )
 
+class Query(graphene.ObjectType):
+    stocks = graphene.List(StockType)
+    portfolios = graphene.List(PortfolioType)
+    trades = graphene.List(TradeType)
+    def resolve_stocks(self,info):
+        return Stock.objects.all()
+    def resolve_portfolios(self,info):
+        return Portfolio.objects.all()
+    def resolve_trades(self,info):
+        return Trade.objects.all()
+class Mutation(graphene.ObjectType):
+    pass
+schema = graphene.Schema(query=Query, mutation=Mutation)
