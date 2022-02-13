@@ -64,12 +64,21 @@ class Query(graphene.ObjectType):
     stocks = graphene.List(StockType)
     portfolios = graphene.List(PortfolioType)
     trades = graphene.List(TradeType)
+    stocks_by_symbol = graphene.List(StockType, symbol=graphene.String())
+    portfolios_by_id = graphene.Field(PortfolioType, id=graphene.Int())
     def resolve_stocks(self,info):
         return Stock.objects.all()
     def resolve_portfolios(self,info):
         return Portfolio.objects.all()
     def resolve_trades(self,info):
         return Trade.objects.all()
+
+    def resolve_stocks_by_symbol(self, info, symbol):
+        return Stock.objects.filter(symbol=symbol)
+
+    def resolve_portfolios_by_id(self, indo, id):
+        return Portfolio.objects.get(pk=id)
+
 class Mutation(graphene.ObjectType):
     create_portfolio = CreatePortfolio.Field()
 schema = graphene.Schema(query=Query, mutation=Mutation)
