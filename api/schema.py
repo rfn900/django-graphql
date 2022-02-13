@@ -97,7 +97,46 @@ class Query(graphene.ObjectType):
     def resolve_portfolios_by_id(self, indo, id):
         return Portfolio.objects.get(pk=id)
 
+class SellStock(graphene.Mutation):
+    trade = graphene.Field(TradeType)
+
+    class Arguments:
+        portfolio_id = graphene.Int()
+        stock_symbol = graphene.String()
+        price = graphene.Int()
+        volume = graphene.Int()
+
+    def mutate(self,info, portfolio_id, stock_symbol, price, volume):
+        portfolio = Portfolio.objects.get(id=portfolio_id)
+
+        trades = portfolio.trades.filter(stock_symbol=stock_symbol)
+        sold = trades.filter(trade_type='S').aggregate(Sum('volume'))
+        bought = trades.filter(trade_type='B').aggregate(Sum('volume'))
+
+        if bought['volume__sum'] is None:
+            raise GraphQLError('You do not own any volume of this stock')
+
+        if sold['volume__sum'] is None:
+            sold['volume__sum'] = 0
+
+        available_volume = bought['volume__sum'] - sold['volume__sum']
+
+        if available_volume < volume:
+            raise GraphQLError("Not enough volume for this transaction!")
+
+        new_trade = Trade(price=price, volume=volume,
+                  trade_type='S',portfolio=portfolio,stock_symbol=stock_symbol)
+
+        new_trade.save()
+        portfolio.trades.add(new_trade)
+        portfolio.account_balance = portfolio.account_balance + price*volume
+
+        portfolio.save()
+        return SellStock(trade=new_trade)
+
+
 class Mutation(graphene.ObjectType):
     create_portfolio = CreatePortfolio.Field()
     update_portfolio = UpdatePortfolio.Field()
+    sell_stock = SellStock.Field()
 schema = graphene.Schema(query=Query, mutation=Mutation)
