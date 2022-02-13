@@ -84,10 +84,13 @@ class Query(graphene.ObjectType):
     trades = graphene.List(TradeType)
     stocks_by_symbol = graphene.List(StockType, symbol=graphene.String())
     portfolios_by_id = graphene.Field(PortfolioType, id=graphene.Int())
+
     def resolve_stocks(self,info):
         return Stock.objects.all()
+
     def resolve_portfolios(self,info):
         return Portfolio.objects.all()
+
     def resolve_trades(self,info):
         return Trade.objects.all()
 
@@ -135,8 +138,40 @@ class SellStock(graphene.Mutation):
         return SellStock(trade=new_trade)
 
 
+class BuyStock(graphene.Mutation):
+    trade = graphene.Field(TradeType)
+
+    class Arguments:
+        portfolio_id = graphene.Int()
+        stock_symbol = graphene.String()
+        price = graphene.Int()
+        volume = graphene.Int()
+
+    def mutate(self,info, portfolio_id, stock_symbol, price, volume):
+        portfolio = Portfolio.objects.get(id=portfolio_id)
+        stock = Stock.objects.filter(symbol=stock_symbol)
+        if not stock:
+            raise GraphQLError('No stock found with this symbol')
+
+        if price*volume > portfolio.account_balance:
+            raise GraphQLError('You do not have sufficient funds for this')
+
+        new_trade = Trade(price=price, volume=volume,
+                  trade_type='B',portfolio=portfolio,stock_symbol=stock_symbol)
+
+        new_trade.save()
+        portfolio.trades.add(new_trade)
+        portfolio.account_balance = portfolio.account_balance - price*volume
+
+        portfolio.save()
+        return BuyStock(trade=new_trade)
+
+
 class Mutation(graphene.ObjectType):
     create_portfolio = CreatePortfolio.Field()
     update_portfolio = UpdatePortfolio.Field()
     sell_stock = SellStock.Field()
+    buy_stock = BuyStock.Field()
+
+
 schema = graphene.Schema(query=Query, mutation=Mutation)
