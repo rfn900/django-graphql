@@ -7,7 +7,10 @@ WORKDIR /code
 
 COPY requirements.txt .
 COPY instruments_data.json .
-RUN pip install -r requirements.txt
+RUN pip install -r requirements.txt && \
+    adduser --no-create-home app
+
+USER app
 
 COPY . .
 
