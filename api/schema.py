@@ -1,5 +1,4 @@
 import graphene
-from graphene_django import DjangoObjectType
 from stock.models import Stock
 from portfolio.models import Portfolio, Trade
 from stock.schema import StockType
