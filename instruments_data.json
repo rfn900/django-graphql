@@ -1,0 +1,7122 @@
+[
+  {
+    "symbol": "A",
+    "name": "AGILENT TECHNOLOGIES INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2"
+  },
+  {
+    "symbol": "AAON",
+    "name": "AAON INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "9"
+  },
+  {
+    "symbol": "ABBV",
+    "name": "ABBVIE INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "20"
+  },
+  {
+    "symbol": "ABM",
+    "name": "ABM INDUSTRIES INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "29"
+  },
+  {
+    "symbol": "ACA",
+    "name": "ARCOSA INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15144"
+  },
+  {
+    "symbol": "ACES",
+    "name": "ALPS CLEAN ENERGY ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14783"
+  },
+  {
+    "symbol": "ACIU",
+    "name": "AC IMMUNE SA",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11879"
+  },
+  {
+    "symbol": "ACRE",
+    "name": "ARES COMMERCIAL REAL ESTATE",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "69"
+  },
+  {
+    "symbol": "ACTTW",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15726"
+  },
+  {
+    "symbol": "ADC",
+    "name": "AGREE REALTY CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "86"
+  },
+  {
+    "symbol": "ADP",
+    "name": "AUTOMATIC DATA PROCESSING",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "98"
+  },
+  {
+    "symbol": "ADT",
+    "name": "ADT INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13952"
+  },
+  {
+    "symbol": "AEFC",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "16198"
+  },
+  {
+    "symbol": "AEP",
+    "name": "AMERICAN ELECTRIC POWER",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "122"
+  },
+  {
+    "symbol": "AFC",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "137"
+  },
+  {
+    "symbol": "AFK",
+    "name": "VANECK AFRICA INDEX",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "143"
+  },
+  {
+    "symbol": "AGBAW",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15931"
+  },
+  {
+    "symbol": "AGGY",
+    "name": "WISDOMTREE YIELD ENHANCED US",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10278"
+  },
+  {
+    "symbol": "AGN",
+    "name": "ALLERGAN PLC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "72"
+  },
+  {
+    "symbol": "AGO-F",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "177"
+  },
+  {
+    "symbol": "AGZ",
+    "name": "ISHARES AGENCY BOND ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "184"
+  },
+  {
+    "symbol": "AHT-D",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "195"
+  },
+  {
+    "symbol": "AIEQ",
+    "name": "AI POWERED EQUITY ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13582"
+  },
+  {
+    "symbol": "AIMT",
+    "name": "AIMMUNE THERAPEUTICS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10269"
+  },
+  {
+    "symbol": "AIRT",
+    "name": "AIR T INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "210"
+  },
+  {
+    "symbol": "AJX",
+    "name": "GREAT AJAX CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "9721"
+  },
+  {
+    "symbol": "AKRO",
+    "name": "AKERO THERAPEUTICS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15829"
+  },
+  {
+    "symbol": "ALACW",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15252"
+  },
+  {
+    "symbol": "ALG",
+    "name": "ALAMO GROUP INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "237"
+  },
+  {
+    "symbol": "ALKS",
+    "name": "ALKERMES PLC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "243"
+  },
+  {
+    "symbol": "ALLY",
+    "name": "ALLY FINANCIAL INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "249"
+  },
+  {
+    "symbol": "ALRS",
+    "name": "ALERUS FINANCIAL CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "16072"
+  },
+  {
+    "symbol": "ALXN",
+    "name": "ALEXION PHARMACEUTICALS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "272"
+  },
+  {
+    "symbol": "AMC",
+    "name": "AMC ENTERTAINMENT HLDS-CL A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7817"
+  },
+  {
+    "symbol": "AMEH",
+    "name": "APOLLO MEDICAL HOLDINGS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10065"
+  },
+  {
+    "symbol": "AMJL",
+    "name": "X-LINKS 2XLEVRG ALERIAN MLP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11385"
+  },
+  {
+    "symbol": "AMPE",
+    "name": "AMPIO PHARMACEUTICALS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "303"
+  },
+  {
+    "symbol": "AMRX",
+    "name": "AMNEAL PHARMACEUTICALS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13988"
+  },
+  {
+    "symbol": "AMU",
+    "name": "ETRACS ALERIAN MLP ETN",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "320"
+  },
+  {
+    "symbol": "ANDA",
+    "name": "ANDINA ACQUISITION CORP III",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15257"
+  },
+  {
+    "symbol": "ANGO",
+    "name": "ANGIODYNAMICS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "340"
+  },
+  {
+    "symbol": "ANTM",
+    "name": "ANTHEM INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7490"
+  },
+  {
+    "symbol": "AOS",
+    "name": "SMITH (A.O.) CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "361"
+  },
+  {
+    "symbol": "APEX",
+    "name": "APEX GLOBAL BRANDS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1217"
+  },
+  {
+    "symbol": "APOG",
+    "name": "APOGEE ENTERPRISES INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "377"
+  },
+  {
+    "symbol": "APTS",
+    "name": "PREFERRED APARTMENT COMMUN-A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "384"
+  },
+  {
+    "symbol": "AQN",
+    "name": "ALGONQUIN POWER & UTILITIES",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "12127"
+  },
+  {
+    "symbol": "ARCB",
+    "name": "ARCBEST CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "25"
+  },
+  {
+    "symbol": "ARDX",
+    "name": "ARDELYX INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "8658"
+  },
+  {
+    "symbol": "ARI",
+    "name": "APOLLO COMMERCIAL REAL ESTAT",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "406"
+  },
+  {
+    "symbol": "ARMK",
+    "name": "ARAMARK",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "8127"
+  },
+  {
+    "symbol": "ARR-B",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "424"
+  },
+  {
+    "symbol": "ARYAU",
+    "name": "ARYA SCIENCES ACQUISITION CO",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15007"
+  },
+  {
+    "symbol": "ASFI",
+    "name": "ASTA FUNDING INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "448"
+  },
+  {
+    "symbol": "ASMB",
+    "name": "ASSEMBLY BIOSCIENCES INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7380"
+  },
+  {
+    "symbol": "ASRVP",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "463"
+  },
+  {
+    "symbol": "ATEX",
+    "name": "ANTERIX INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "9712"
+  },
+  {
+    "symbol": "ATIS",
+    "name": "ATTIS INDUSTRIES INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "12329"
+  },
+  {
+    "symbol": "ATOM",
+    "name": "ATOMERA INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11673"
+  },
+  {
+    "symbol": "ATUS",
+    "name": "ALTICE USA INC- A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13016"
+  },
+  {
+    "symbol": "AUPH",
+    "name": "AURINIA PHARMACEUTICALS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "9213"
+  },
+  {
+    "symbol": "AVD",
+    "name": "AMERICAN VANGUARD CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "524"
+  },
+  {
+    "symbol": "AVH",
+    "name": "AVIANCA HOLDINGS SA-SPON ADR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "8082"
+  },
+  {
+    "symbol": "AVTR-A",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15739"
+  },
+  {
+    "symbol": "AWP",
+    "name": "ABERDEEN GLBL PREM PROP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "545"
+  },
+  {
+    "symbol": "AXGN",
+    "name": "AXOGEN INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7713"
+  },
+  {
+    "symbol": "AXS-D",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14582"
+  },
+  {
+    "symbol": "AYX",
+    "name": "ALTERYX INC - CLASS A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "12410"
+  },
+  {
+    "symbol": "BAB",
+    "name": "INVESCO TAXABLE MUNICIPAL BO",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "587"
+  },
+  {
+    "symbol": "BAC-N",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "16091"
+  },
+  {
+    "symbol": "BAND",
+    "name": "BANDWIDTH INC-CLASS A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13555"
+  },
+  {
+    "symbol": "BATRA",
+    "name": "LIBERTY MEDIA CORP-BRAVES A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11243"
+  },
+  {
+    "symbol": "BBCA",
+    "name": "JPMORGAN BETABUILDERS CANADA",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14896"
+  },
+  {
+    "symbol": "BBIO",
+    "name": "BRIDGEBIO PHARMA INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15831"
+  },
+  {
+    "symbol": "BBT",
+    "name": "BB&T CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "637"
+  },
+  {
+    "symbol": "BC",
+    "name": "BRUNSWICK CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "646"
+  },
+  {
+    "symbol": "BCEI",
+    "name": "BONANZA CREEK ENERGY INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "12855"
+  },
+  {
+    "symbol": "BCOV",
+    "name": "BRIGHTCOVE",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "658"
+  },
+  {
+    "symbol": "BCX",
+    "name": "BLACKROCK RESOURCES & COMMOD",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "665"
+  },
+  {
+    "symbol": "BDN",
+    "name": "BRANDYWINE REALTY TRUST",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "677"
+  },
+  {
+    "symbol": "BELFA",
+    "name": "BEL FUSE INC-CL A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "691"
+  },
+  {
+    "symbol": "BFC",
+    "name": "BANK FIRST CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15174"
+  },
+  {
+    "symbol": "BFST",
+    "name": "BUSINESS FIRST BANCSHARES",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14348"
+  },
+  {
+    "symbol": "BGIO",
+    "name": "BLACKROCK 2022 GLOBAL INCOME",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "12318"
+  },
+  {
+    "symbol": "BH.A",
+    "name": "BIGLARI HOLDINGS INC-A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14357"
+  },
+  {
+    "symbol": "BHP",
+    "name": "BHP GROUP LTD-SPON ADR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "735"
+  },
+  {
+    "symbol": "BIDU",
+    "name": "BAIDU INC - SPON ADR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "741"
+  },
+  {
+    "symbol": "BIOL",
+    "name": "BIOLASE INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "754"
+  },
+  {
+    "symbol": "BJ",
+    "name": "BJ'S WHOLESALE CLUB HOLDINGS",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14566"
+  },
+  {
+    "symbol": "BKE",
+    "name": "BUCKLE INC/THE",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "771"
+  },
+  {
+    "symbol": "BKNG",
+    "name": "BOOKING HOLDINGS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5299"
+  },
+  {
+    "symbol": "BLCN",
+    "name": "REALITY SHRS NASDAQ NEXGEN",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14026"
+  },
+  {
+    "symbol": "BLKB",
+    "name": "BLACKBAUD INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "797"
+  },
+  {
+    "symbol": "BLV",
+    "name": "VANGUARD LONG-TERM BOND ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "807"
+  },
+  {
+    "symbol": "BML-L",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "819"
+  },
+  {
+    "symbol": "BNDW",
+    "name": "VANGUARD TOTAL WORLD BOND ET",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14983"
+  },
+  {
+    "symbol": "BNO",
+    "name": "UNITED STATES BRENT OIL FUND",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "834"
+  },
+  {
+    "symbol": "BOE",
+    "name": "BLACKROCK ENHANCED GLOBAL DI",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "841"
+  },
+  {
+    "symbol": "BORR",
+    "name": "BORR DRILLING LTD",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15982"
+  },
+  {
+    "symbol": "BPMC",
+    "name": "BLUEPRINT MEDICINES CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "9865"
+  },
+  {
+    "symbol": "BPTH",
+    "name": "BIO-PATH HOLDINGS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "8324"
+  },
+  {
+    "symbol": "BRFS",
+    "name": "BRF SA-ADR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "891"
+  },
+  {
+    "symbol": "BRKS",
+    "name": "BROOKS AUTOMATION INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "897"
+  },
+  {
+    "symbol": "BRPAU",
+    "name": "BIG ROCK PARTNERS ACQUISITIO",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13558"
+  },
+  {
+    "symbol": "BSA",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14585"
+  },
+  {
+    "symbol": "BSCN",
+    "name": "INVESCO BULLETSHARES 2023 CO",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14364"
+  },
+  {
+    "symbol": "BSEP",
+    "name": "INNOVATOR S&P 500 BUFFER SEP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "16030"
+  },
+  {
+    "symbol": "BSJP",
+    "name": "INVESCO BULLETSHARES 2025 HI",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14650"
+  },
+  {
+    "symbol": "BSMQ",
+    "name": "INVESCO BULLETSHARES 2026 MU",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "16107"
+  },
+  {
+    "symbol": "BSV",
+    "name": "VANGUARD SHORT-TERM BOND ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "941"
+  },
+  {
+    "symbol": "BTN",
+    "name": "BALLANTYNE STRONG INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "951"
+  },
+  {
+    "symbol": "BURL",
+    "name": "BURLINGTON STORES INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7884"
+  },
+  {
+    "symbol": "BW",
+    "name": "BABCOCK & WILCOX ENTERPR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10113"
+  },
+  {
+    "symbol": "BWMCW",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15362"
+  },
+  {
+    "symbol": "BXP-B",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "989"
+  },
+  {
+    "symbol": "BZM",
+    "name": "BLACKROCK MARYLAND MUNI BOND",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1002"
+  },
+  {
+    "symbol": "CABA",
+    "name": "CABALETTA BIO INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "16135"
+  },
+  {
+    "symbol": "CAH",
+    "name": "CARDINAL HEALTH INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1032"
+  },
+  {
+    "symbol": "CALX",
+    "name": "CALIX INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1041"
+  },
+  {
+    "symbol": "CARA",
+    "name": "CARA THERAPEUTICS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "8209"
+  },
+  {
+    "symbol": "CASH",
+    "name": "META FINANCIAL GROUP INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1055"
+  },
+  {
+    "symbol": "CATS",
+    "name": "CATASYS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "12818"
+  },
+  {
+    "symbol": "CBH",
+    "name": "ALLIANZGI CONVERTIBLE & INCO",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13056"
+  },
+  {
+    "symbol": "CBO",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7897"
+  },
+  {
+    "symbol": "CBSHP",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "8897"
+  },
+  {
+    "symbol": "CCC+",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15728"
+  },
+  {
+    "symbol": "CCJ",
+    "name": "CAMECO CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1112"
+  },
+  {
+    "symbol": "CCR",
+    "name": "CONSOL COAL RESOURCES LP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "9882"
+  },
+  {
+    "symbol": "CDAY",
+    "name": "CERIDIAN HCM HOLDING INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14326"
+  },
+  {
+    "symbol": "CDNS",
+    "name": "CADENCE DESIGN SYS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1130"
+  },
+  {
+    "symbol": "CE",
+    "name": "CELANESE CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1138"
+  },
+  {
+    "symbol": "CEIX",
+    "name": "CONSOL ENERGY INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13781"
+  },
+  {
+    "symbol": "CEN",
+    "name": "CENTER COAST BROOKFIELD MLP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7797"
+  },
+  {
+    "symbol": "CERS",
+    "name": "CERUS CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1161"
+  },
+  {
+    "symbol": "CEZ",
+    "name": "VICTORYSHARES EMERGING MARKE",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11176"
+  },
+  {
+    "symbol": "CFFN",
+    "name": "CAPITOL FEDERAL FINANCIAL IN",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1173"
+  },
+  {
+    "symbol": "CFXA",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15397"
+  },
+  {
+    "symbol": "CHA",
+    "name": "CHINA TELECOM CORP LTD-ADR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1194"
+  },
+  {
+    "symbol": "CHEF",
+    "name": "CHEFS' WAREHOUSE INC/THE",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1202"
+  },
+  {
+    "symbol": "CHIC",
+    "name": "GLOBAL X MSCI CHINA COMMUNIC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5766"
+  },
+  {
+    "symbol": "CHIU",
+    "name": "GLOBAL X MSCI CHINA UTIL ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15306"
+  },
+  {
+    "symbol": "CHMI-A",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13311"
+  },
+  {
+    "symbol": "CHS",
+    "name": "CHICO'S FAS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1231"
+  },
+  {
+    "symbol": "CHW",
+    "name": "CALAMOS GLOBAL DYNAMIC INCOM",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1240"
+  },
+  {
+    "symbol": "CIF",
+    "name": "MFS INTERMEDIATE HIGH INC FN",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1251"
+  },
+  {
+    "symbol": "CIM-A",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11983"
+  },
+  {
+    "symbol": "CIT",
+    "name": "CIT GROUP INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1265"
+  },
+  {
+    "symbol": "CL",
+    "name": "COLGATE-PALMOLIVE CO",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1277"
+  },
+  {
+    "symbol": "CLF",
+    "name": "CLEVELAND-CLIFFS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1287"
+  },
+  {
+    "symbol": "CLMT",
+    "name": "CALUMET SPECIALTY PRODUCTS",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1295"
+  },
+  {
+    "symbol": "CLOU",
+    "name": "GLOBAL X CLOUD COMPUTING ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15621"
+  },
+  {
+    "symbol": "CLSN",
+    "name": "CELSION CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1306"
+  },
+  {
+    "symbol": "CMBM",
+    "name": "CAMBIUM NETWORKS CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15789"
+  },
+  {
+    "symbol": "CMDY",
+    "name": "ISHARES BLOOMBERG ROLL SELEC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14341"
+  },
+  {
+    "symbol": "CMPR",
+    "name": "CIMPRESS NV",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7336"
+  },
+  {
+    "symbol": "CMSC",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15098"
+  },
+  {
+    "symbol": "CNC",
+    "name": "CENTENE CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1347"
+  },
+  {
+    "symbol": "CNI",
+    "name": "CANADIAN NATL RAILWAY CO",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1353"
+  },
+  {
+    "symbol": "CNRG",
+    "name": "SPDR S&P KENSHO CLEAN POWER",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15162"
+  },
+  {
+    "symbol": "CNYA",
+    "name": "ISHARES MSCI CHINA A ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11473"
+  },
+  {
+    "symbol": "COF-C*",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "8837"
+  },
+  {
+    "symbol": "COHU",
+    "name": "COHU INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1391"
+  },
+  {
+    "symbol": "COMT",
+    "name": "ISHARES COMMOD SELECT STRAT",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "9373"
+  },
+  {
+    "symbol": "CORP",
+    "name": "PIMCO INV GRADE CORP BD ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1408"
+  },
+  {
+    "symbol": "COWN",
+    "name": "COWEN INC - A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1418"
+  },
+  {
+    "symbol": "CPAH",
+    "name": "COUNTERPATH CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1423"
+  },
+  {
+    "symbol": "CPK",
+    "name": "CHESAPEAKE UTILITIES CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1435"
+  },
+  {
+    "symbol": "CPSS",
+    "name": "CONSUMER PORTFOLIO SERVICES",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1444"
+  },
+  {
+    "symbol": "CRAK",
+    "name": "VANECK OIL REFINERS",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10412"
+  },
+  {
+    "symbol": "CREX",
+    "name": "CREATIVE REALITIES INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15235"
+  },
+  {
+    "symbol": "CRMD",
+    "name": "CORMEDIX INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1472"
+  },
+  {
+    "symbol": "CRS",
+    "name": "CARPENTER TECHNOLOGY",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1482"
+  },
+  {
+    "symbol": "CRVS",
+    "name": "CORVUS PHARMACEUTICALS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10995"
+  },
+  {
+    "symbol": "CSD",
+    "name": "INVESCO S&P SPIN-OFF ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14378"
+  },
+  {
+    "symbol": "CSML",
+    "name": "IQ CHAIKIN SMALL CAP ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "12918"
+  },
+  {
+    "symbol": "CSTR",
+    "name": "CAPSTAR FINANCIAL HOLDINGS I",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11768"
+  },
+  {
+    "symbol": "CTAC",
+    "name": "CHASERG TECHNOLOGY ACQUISI-A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15177"
+  },
+  {
+    "symbol": "CTHR",
+    "name": "CHARLES & COLVARD LTD",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1543"
+  },
+  {
+    "symbol": "CTRC",
+    "name": "CENTRIC BRANDS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3812"
+  },
+  {
+    "symbol": "CTV",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "9297"
+  },
+  {
+    "symbol": "CUBI",
+    "name": "CUSTOMERS BANCORP INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1571"
+  },
+  {
+    "symbol": "CURE",
+    "name": "DRX DLY HEALTHCARE BULL 3X",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1579"
+  },
+  {
+    "symbol": "CVEO",
+    "name": "CIVEO CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10312"
+  },
+  {
+    "symbol": "CVR",
+    "name": "CHICAGO RIVET & MACHINE CO",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1601"
+  },
+  {
+    "symbol": "CWBR",
+    "name": "COHBAR INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13924"
+  },
+  {
+    "symbol": "CWT",
+    "name": "CALIFORNIA WATER SERVICE GRP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1621"
+  },
+  {
+    "symbol": "CYAD",
+    "name": "CELYAD -SPON ADR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10014"
+  },
+  {
+    "symbol": "CYOU",
+    "name": "CHANGYOU.COM LTD-ADR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1647"
+  },
+  {
+    "symbol": "D",
+    "name": "DOMINION ENERGY INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1661"
+  },
+  {
+    "symbol": "DARE",
+    "name": "DARE BIOSCIENCE INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "8482"
+  },
+  {
+    "symbol": "DBE",
+    "name": "INVESCO DB ENERGY FUND",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1681"
+  },
+  {
+    "symbol": "DBLV",
+    "name": "ADVISORSHARES DOUBLELINE VAL",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6942"
+  },
+  {
+    "symbol": "DCHF",
+    "name": "VELOCITYSHARES DAILY 4X LONG",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13898"
+  },
+  {
+    "symbol": "DD",
+    "name": "DUPONT DE NEMOURS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11407"
+  },
+  {
+    "symbol": "DDOG",
+    "name": "DATADOG INC - CLASS A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "16024"
+  },
+  {
+    "symbol": "DEEF",
+    "name": "XTRACKERS FTSE DEVELOPED EX",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10875"
+  },
+  {
+    "symbol": "DES",
+    "name": "WISDOMTREE US SMALLCAP DIVID",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1738"
+  },
+  {
+    "symbol": "DFBHW",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14447"
+  },
+  {
+    "symbol": "DFVL",
+    "name": "IPATH US TREASURY 5-YR BULL",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1752"
+  },
+  {
+    "symbol": "DGLY",
+    "name": "DIGITAL ALLY INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1765"
+  },
+  {
+    "symbol": "DGZ",
+    "name": "DB GOLD SHORT ETN",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1774"
+  },
+  {
+    "symbol": "DHXM",
+    "name": "DHX MEDIA LTD",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10211"
+  },
+  {
+    "symbol": "DIS",
+    "name": "WALT DISNEY CO/THE",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1791"
+  },
+  {
+    "symbol": "DIVO",
+    "name": "AMPLIFY CWP ENHANCED DIVIDEN",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "12175"
+  },
+  {
+    "symbol": "DKS",
+    "name": "DICK'S SPORTING GOODS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1803"
+  },
+  {
+    "symbol": "DLNG-A",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14590"
+  },
+  {
+    "symbol": "DLR-K",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15528"
+  },
+  {
+    "symbol": "DMLP",
+    "name": "DORCHESTER MINERALS LP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1828"
+  },
+  {
+    "symbol": "DNBF",
+    "name": "DNB FINANCIAL CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1833"
+  },
+  {
+    "symbol": "DO",
+    "name": "DIAMOND OFFSHORE DRILLING",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1843"
+  },
+  {
+    "symbol": "DOOO",
+    "name": "BRP INC/CA- SUB VOTING",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15027"
+  },
+  {
+    "symbol": "DPHCU",
+    "name": "DIAMONDPEAK HOLDINGS CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15401"
+  },
+  {
+    "symbol": "DRD",
+    "name": "DRDGOLD LTD-SPONSORED ADR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1872"
+  },
+  {
+    "symbol": "DRQ",
+    "name": "DRIL-QUIP INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1884"
+  },
+  {
+    "symbol": "DS-C",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4739"
+  },
+  {
+    "symbol": "DSPG",
+    "name": "DSP GROUP INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1901"
+  },
+  {
+    "symbol": "DTE",
+    "name": "DTE ENERGY COMPANY",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1912"
+  },
+  {
+    "symbol": "DTQ",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1919"
+  },
+  {
+    "symbol": "DUK",
+    "name": "DUKE ENERGY CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1931"
+  },
+  {
+    "symbol": "DVAX",
+    "name": "DYNAVAX TECHNOLOGIES CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1936"
+  },
+  {
+    "symbol": "DVYE",
+    "name": "ISHARES EMERGING MARKETS DIV",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1944"
+  },
+  {
+    "symbol": "DWMC",
+    "name": "ADVISORSHARES DORSEY MC ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14812"
+  },
+  {
+    "symbol": "DX-B",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1957"
+  },
+  {
+    "symbol": "DXPE",
+    "name": "DXP ENTERPRISES INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1965"
+  },
+  {
+    "symbol": "DZSI",
+    "name": "DASAN ZHONE SOLUTIONS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7687"
+  },
+  {
+    "symbol": "EARN",
+    "name": "ELLINGTON RESIDENTIAL MORTGA",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1986"
+  },
+  {
+    "symbol": "EBIX",
+    "name": "EBIX INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1990"
+  },
+  {
+    "symbol": "ECA",
+    "name": "ENCANA CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1999"
+  },
+  {
+    "symbol": "ECL",
+    "name": "ECOLAB INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2003"
+  },
+  {
+    "symbol": "ECT",
+    "name": "ECA MARCELLUS TRUST I",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2009"
+  },
+  {
+    "symbol": "EDN",
+    "name": "EMP DISTRIB Y COMERC NOR-ADR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2025"
+  },
+  {
+    "symbol": "EDUC",
+    "name": "EDUCATIONAL DEVELOPMENT CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2030"
+  },
+  {
+    "symbol": "EEM",
+    "name": "ISHARES MSCI EMERGING MARKET",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2041"
+  },
+  {
+    "symbol": "EEX",
+    "name": "EMERALD EXPOSITIONS EVENTS I",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "12756"
+  },
+  {
+    "symbol": "EFG",
+    "name": "ISHARES MSCI EAFE GROWTH ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2056"
+  },
+  {
+    "symbol": "EFX",
+    "name": "EQUIFAX INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2067"
+  },
+  {
+    "symbol": "EGP",
+    "name": "EASTGROUP PROPERTIES INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2080"
+  },
+  {
+    "symbol": "EIDX",
+    "name": "EIDOS THERAPEUTICS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14677"
+  },
+  {
+    "symbol": "EKSO",
+    "name": "EKSO BIONICS HOLDINGS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11702"
+  },
+  {
+    "symbol": "ELOX",
+    "name": "ELOXX PHARMACEUTICALS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14483"
+  },
+  {
+    "symbol": "EMB",
+    "name": "ISHARES JP MORGAN USD EMERGI",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2122"
+  },
+  {
+    "symbol": "EMFM",
+    "name": "GLOBAL X MSCI NEXT EMERGING",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "8089"
+  },
+  {
+    "symbol": "EMMS",
+    "name": "EMMIS COMMUNICATIONS-CLASS A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2150"
+  },
+  {
+    "symbol": "EMX",
+    "name": "EMX ROYALTY CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2159"
+  },
+  {
+    "symbol": "ENIC",
+    "name": "ENEL CHILE SA-ADR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11272"
+  },
+  {
+    "symbol": "ENS",
+    "name": "ENERSYS",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2175"
+  },
+  {
+    "symbol": "ENVA",
+    "name": "ENOVA INTERNATIONAL INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7833"
+  },
+  {
+    "symbol": "EP-C",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2197"
+  },
+  {
+    "symbol": "EPOL",
+    "name": "ISHARES MSCI POLAND ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2209"
+  },
+  {
+    "symbol": "EPU",
+    "name": "ISHARES MSCI PERU ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2216"
+  },
+  {
+    "symbol": "EQL",
+    "name": "ALPS EQUAL SECTOR WEIGHT ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2220"
+  },
+  {
+    "symbol": "ERC",
+    "name": "WELLS FARGO MULTI-SECTOR INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2229"
+  },
+  {
+    "symbol": "ERSX",
+    "name": "ERShares Non-US SMALLCAP ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15339"
+  },
+  {
+    "symbol": "ESEA",
+    "name": "EUROSEAS LTD",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2250"
+  },
+  {
+    "symbol": "ESGRP",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14823"
+  },
+  {
+    "symbol": "ESPO",
+    "name": "VANECK VIDEO GAMING ESPORTS",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15142"
+  },
+  {
+    "symbol": "ESTRW",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13954"
+  },
+  {
+    "symbol": "ETM",
+    "name": "ENTERCOM COMMUNICATIONS-CL A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2277"
+  },
+  {
+    "symbol": "ETTX",
+    "name": "ENTASIS THERAPEUTICS HOLDING",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14937"
+  },
+  {
+    "symbol": "EUM",
+    "name": "PROSHARES SHORT MSCI EMR MKT",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2292"
+  },
+  {
+    "symbol": "EVA",
+    "name": "ENVIVA PARTNERS LP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "9435"
+  },
+  {
+    "symbol": "EVH",
+    "name": "EVOLENT HEALTH INC - A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "9968"
+  },
+  {
+    "symbol": "EVOP",
+    "name": "EVO PAYMENTS INC-CLASS A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14478"
+  },
+  {
+    "symbol": "EVX",
+    "name": "VANECK ENVIRONMENTAL SRVCS",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2320"
+  },
+  {
+    "symbol": "EWGS",
+    "name": "ISHARES MSCI GERMANY SMALL-C",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2331"
+  },
+  {
+    "symbol": "EWN",
+    "name": "ISHARES MSCI NETHERLANDS ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2339"
+  },
+  {
+    "symbol": "EWV",
+    "name": "PROSHARES ULTSHRT MSCI JAPAN",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2351"
+  },
+  {
+    "symbol": "EXFO",
+    "name": "EXFO INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2366"
+  },
+  {
+    "symbol": "EXPD",
+    "name": "EXPEDITORS INTL WASH INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2376"
+  },
+  {
+    "symbol": "EYEG",
+    "name": "EYEGATE PHARMACEUTICALS",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10347"
+  },
+  {
+    "symbol": "EZPW",
+    "name": "EZCORP INC-CL A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2388"
+  },
+  {
+    "symbol": "FAM",
+    "name": "FIRST TRUST ABERDEEN GLOBAL",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2397"
+  },
+  {
+    "symbol": "FATE",
+    "name": "FATE THERAPEUTICS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7764"
+  },
+  {
+    "symbol": "FBIZ",
+    "name": "FIRST BUSINESS FINANCIAL SER",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2412"
+  },
+  {
+    "symbol": "FC",
+    "name": "FRANKLIN COVEY CO",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2425"
+  },
+  {
+    "symbol": "FCEF",
+    "name": "FIRST TRUST CEF INCOME OPP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11891"
+  },
+  {
+    "symbol": "FCPT",
+    "name": "FOUR CORNERS PROPERTY TRUST",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10771"
+  },
+  {
+    "symbol": "FDEU",
+    "name": "FIRST TR DYN EUR EQTY INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10428"
+  },
+  {
+    "symbol": "FDNI",
+    "name": "FIRST TRUST DOW JONES INTL",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15205"
+  },
+  {
+    "symbol": "FDVV",
+    "name": "FIDELITY HIGH DIVIDEND ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11822"
+  },
+  {
+    "symbol": "FEMS",
+    "name": "FIRST TRUST EMERGING MARKETS",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2476"
+  },
+  {
+    "symbol": "FEX",
+    "name": "FIRST TRUST LARGE CAP CORE A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2484"
+  },
+  {
+    "symbol": "FFHG",
+    "name": "FORMULA FOLIOS HEDGED GROWTH",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "12991"
+  },
+  {
+    "symbol": "FFTI",
+    "name": "FORMULAFOLIOS TACTICAL INCOM",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "12992"
+  },
+  {
+    "symbol": "FGP",
+    "name": "FERRELLGAS PARTNERS-LP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2508"
+  },
+  {
+    "symbol": "FID",
+    "name": "FIRST TRUST S&P INTERNATIONA",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7744"
+  },
+  {
+    "symbol": "FINX",
+    "name": "GLOBAL X FINTECH ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11809"
+  },
+  {
+    "symbol": "FITBO",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "16152"
+  },
+  {
+    "symbol": "FIXD",
+    "name": "FIRST TRUST TCW OPP FIXED IN",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "12389"
+  },
+  {
+    "symbol": "FLAT",
+    "name": "IPATH US TSY FLATTENER",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2542"
+  },
+  {
+    "symbol": "FLDM",
+    "name": "FLUIDIGM CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2544"
+  },
+  {
+    "symbol": "FLGT",
+    "name": "FULGENT GENETICS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11787"
+  },
+  {
+    "symbol": "FLJP",
+    "name": "FRANKLIN FTSE JAPAN ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13716"
+  },
+  {
+    "symbol": "FLMB",
+    "name": "FRANKLIN LIBERTY MUNI BD ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13340"
+  },
+  {
+    "symbol": "FLOW",
+    "name": "SPX FLOW INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10517"
+  },
+  {
+    "symbol": "FLRT",
+    "name": "PACIFIC ASSET ENHANCED FLOAT",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "9754"
+  },
+  {
+    "symbol": "FLXN",
+    "name": "FLEXION THERAPEUTICS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "8255"
+  },
+  {
+    "symbol": "FMC",
+    "name": "FMC CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2566"
+  },
+  {
+    "symbol": "FMS",
+    "name": "FRESENIUS MEDICAL CARE-ADR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2576"
+  },
+  {
+    "symbol": "FNDB",
+    "name": "SCHWAB FUNDAMENTAL BROAD MKT",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7729"
+  },
+  {
+    "symbol": "FNHC",
+    "name": "FEDNAT HOLDING CO",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2586"
+  },
+  {
+    "symbol": "FOCS",
+    "name": "FOCUS FINANCIAL PARTNERS-A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14832"
+  },
+  {
+    "symbol": "FORR",
+    "name": "FORRESTER RESEARCH INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2606"
+  },
+  {
+    "symbol": "FPAC=",
+    "name": "FAR POINT ACQUISITION CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14665"
+  },
+  {
+    "symbol": "FPRX",
+    "name": "FIVE PRIME THERAPEUTICS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7765"
+  },
+  {
+    "symbol": "FRBA",
+    "name": "FIRST BANK/HAMILTON NJ",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "8114"
+  },
+  {
+    "symbol": "FREQ",
+    "name": "FREQUENCY THERAPEUTICS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "16052"
+  },
+  {
+    "symbol": "FRSX",
+    "name": "FORESIGHT AUTONOMOUS-SP ADR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13021"
+  },
+  {
+    "symbol": "FSFG",
+    "name": "FIRST SAVINGS FINANCIAL GRP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2654"
+  },
+  {
+    "symbol": "FSS",
+    "name": "FEDERAL SIGNAL CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2664"
+  },
+  {
+    "symbol": "FTAG",
+    "name": "FIRST TRUST INDXX GLOBAL AGR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5478"
+  },
+  {
+    "symbol": "FTF",
+    "name": "FRANKLIN LTD DUR INC TR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2675"
+  },
+  {
+    "symbol": "FTR",
+    "name": "FRONTIER COMMUNICATIONS CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2679"
+  },
+  {
+    "symbol": "FTVA",
+    "name": "APTUS FORTIFIED VALUE ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13678"
+  },
+  {
+    "symbol": "FUL",
+    "name": "H.B. FULLER CO.",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2688"
+  },
+  {
+    "symbol": "FUTY",
+    "name": "FIDELITY US UTILITIES ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "8033"
+  },
+  {
+    "symbol": "FWDB",
+    "name": "ADVISORSHARES FOLIOBEYOND SM",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2702"
+  },
+  {
+    "symbol": "FXE",
+    "name": "INVESCO CURRENCYSHARES EURO",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2716"
+  },
+  {
+    "symbol": "FXR",
+    "name": "FIRST TRUST INDST/PRODUCERS",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2726"
+  },
+  {
+    "symbol": "G",
+    "name": "GENPACT LTD",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2735"
+  },
+  {
+    "symbol": "GAINL",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14946"
+  },
+  {
+    "symbol": "GASS",
+    "name": "STEALTHGAS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2758"
+  },
+  {
+    "symbol": "GBLI",
+    "name": "GLOBAL INDEMNITY LTD",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "12066"
+  },
+  {
+    "symbol": "GCC",
+    "name": "WISDOMTREE CONTINUOUS COMMOD",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2778"
+  },
+  {
+    "symbol": "GDAT",
+    "name": "GS MOTIF DATA-DRIVEN WD ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15481"
+  },
+  {
+    "symbol": "GDOT",
+    "name": "GREEN DOT CORP-CLASS A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2794"
+  },
+  {
+    "symbol": "GDX",
+    "name": "VANECK GOLD MINERS",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2800"
+  },
+  {
+    "symbol": "GEL",
+    "name": "GENESIS ENERGY L.P.",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2809"
+  },
+  {
+    "symbol": "GERN",
+    "name": "GERON CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2818"
+  },
+  {
+    "symbol": "GFNSL",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "8746"
+  },
+  {
+    "symbol": "GGT",
+    "name": "GABELLI MULTIMEDIA TRUST INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2846"
+  },
+  {
+    "symbol": "GHL",
+    "name": "GREENHILL & CO INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2850"
+  },
+  {
+    "symbol": "GIG=",
+    "name": "GIGCAPITAL INC-UNIT",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13890"
+  },
+  {
+    "symbol": "GIM",
+    "name": "TEMPLETON GLOBAL INCOME FUND",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2864"
+  },
+  {
+    "symbol": "GJS",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2879"
+  },
+  {
+    "symbol": "GLBY",
+    "name": "WISDOMTREE YL EHD GBL AGG BD",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15312"
+  },
+  {
+    "symbol": "GLIF",
+    "name": "AGFIQ GLOBAL INFRASTRUCTURE",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15752"
+  },
+  {
+    "symbol": "GLOP-B",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14597"
+  },
+  {
+    "symbol": "GLTR",
+    "name": "ABERDEEN STANDARD PHYSICAL P",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2907"
+  },
+  {
+    "symbol": "GMAN",
+    "name": "GS MOTIF MANUFACT REVOLUTION",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15484"
+  },
+  {
+    "symbol": "GMO",
+    "name": "GENERAL MOLY INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2928"
+  },
+  {
+    "symbol": "GNE",
+    "name": "GENIE ENERGY LTD-B",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2934"
+  },
+  {
+    "symbol": "GNOM",
+    "name": "GLOBAL X GENOMICS & BIOTECHN",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15602"
+  },
+  {
+    "symbol": "GNW",
+    "name": "GENWORTH FINANCIAL INC-CL A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2945"
+  },
+  {
+    "symbol": "GOLF",
+    "name": "ACUSHNET HOLDINGS CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11695"
+  },
+  {
+    "symbol": "GPAQ",
+    "name": "GORDON POINTE ACQUISITION CO",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14231"
+  },
+  {
+    "symbol": "GPN",
+    "name": "GLOBAL PAYMENTS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2966"
+  },
+  {
+    "symbol": "GRAF",
+    "name": "GRAF INDUSTRIAL CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15048"
+  },
+  {
+    "symbol": "GRI",
+    "name": "COHEN & STEERS GLOBAL REALTY",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2985"
+  },
+  {
+    "symbol": "GRPN",
+    "name": "GROUPON INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2993"
+  },
+  {
+    "symbol": "GRX-B",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "9332"
+  },
+  {
+    "symbol": "GSAH=",
+    "name": "GS ACQUISITION HOLDINGS CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14697"
+  },
+  {
+    "symbol": "GSHD",
+    "name": "GOOSEHEAD INSURANCE INC -A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14339"
+  },
+  {
+    "symbol": "GSP",
+    "name": "IPATH GSCI TOTAL RETURN INDX",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3030"
+  },
+  {
+    "symbol": "GTEC",
+    "name": "GREENLAND TECHNOLOGIES HOLDI",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14893"
+  },
+  {
+    "symbol": "GTS",
+    "name": "TRIPLE-S MANAGEMENT CORP-B",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3050"
+  },
+  {
+    "symbol": "GUSH",
+    "name": "DRX DLY OIL & GAS BULL 3X",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10030"
+  },
+  {
+    "symbol": "GWB",
+    "name": "GREAT WESTERN BANCORP INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "9317"
+  },
+  {
+    "symbol": "GXG",
+    "name": "GLOBAL X MSCI COLOMBIA ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3080"
+  },
+  {
+    "symbol": "HA",
+    "name": "HAWAIIAN HOLDINGS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3092"
+  },
+  {
+    "symbol": "HALO",
+    "name": "HALOZYME THERAPEUTICS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3098"
+  },
+  {
+    "symbol": "HAYN",
+    "name": "HAYNES INTERNATIONAL INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3109"
+  },
+  {
+    "symbol": "HBNC",
+    "name": "HORIZON BANCORP INC/IN",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3125"
+  },
+  {
+    "symbol": "HCC",
+    "name": "WARRIOR MET COAL INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "12757"
+  },
+  {
+    "symbol": "HCM",
+    "name": "HUTCHISON CHINA MEDITECH-ADR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11158"
+  },
+  {
+    "symbol": "HDG",
+    "name": "PROSHARES HEDGE REPLICAT ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3146"
+  },
+  {
+    "symbol": "HEBT",
+    "name": "HEBRON TECHNOLOGY CO LTD - A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10931"
+  },
+  {
+    "symbol": "HEPA",
+    "name": "HEPION PHARMACEUTICALS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "9779"
+  },
+  {
+    "symbol": "HEWL",
+    "name": "ISHARES CURR HEDG MSCI SWITZ",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10247"
+  },
+  {
+    "symbol": "HFRO",
+    "name": "HIGHLAND INCOME FUND",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13727"
+  },
+  {
+    "symbol": "HHC",
+    "name": "HOWARD HUGHES CORP/THE",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3183"
+  },
+  {
+    "symbol": "HIE",
+    "name": "MILLER/HOWARD HIGH INCOME EQ",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "9466"
+  },
+  {
+    "symbol": "HIPS",
+    "name": "GRANITESHARES HIPS US HIGH I",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "9638"
+  },
+  {
+    "symbol": "HLAL",
+    "name": "WAHED FTSE USA SHARIAH ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15935"
+  },
+  {
+    "symbol": "HMC",
+    "name": "HONDA MOTOR CO LTD-SPONS ADR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3219"
+  },
+  {
+    "symbol": "HMSY",
+    "name": "HMS HOLDINGS CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3229"
+  },
+  {
+    "symbol": "HOFT",
+    "name": "HOOKER FURNITURE CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3240"
+  },
+  {
+    "symbol": "HONE",
+    "name": "HARBORONE BANCORP INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "16005"
+  },
+  {
+    "symbol": "HPF",
+    "name": "JOHN HANCOCK PFD INCOME II",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3257"
+  },
+  {
+    "symbol": "HR",
+    "name": "HEALTHCARE REALTY TRUST INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3271"
+  },
+  {
+    "symbol": "HSACU",
+    "name": "HEALTH SCIENCES ACQUISITIONS",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15644"
+  },
+  {
+    "symbol": "HSON",
+    "name": "HUDSON GLOBAL INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3288"
+  },
+  {
+    "symbol": "HTA",
+    "name": "HEALTHCARE TRUST OF AME-CL A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3297"
+  },
+  {
+    "symbol": "HTH",
+    "name": "HILLTOP HOLDINGS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3308"
+  },
+  {
+    "symbol": "HUBS",
+    "name": "HUBSPOT INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "9193"
+  },
+  {
+    "symbol": "HVBC",
+    "name": "HV BANCORP INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "12026"
+  },
+  {
+    "symbol": "HY",
+    "name": "HYSTER-YALE MATERIALS",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3342"
+  },
+  {
+    "symbol": "HYGH",
+    "name": "ISHARES INT RATE HEDG HY ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "8672"
+  },
+  {
+    "symbol": "HYND",
+    "name": "WISDOMTREE WISDOMTREE NEGATI",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "8171"
+  },
+  {
+    "symbol": "HZO",
+    "name": "MARINEMAX INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3360"
+  },
+  {
+    "symbol": "IART",
+    "name": "INTEGRA LIFESCIENCES HOLDING",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3368"
+  },
+  {
+    "symbol": "IBDC",
+    "name": "ISHARES IBONDS MAR 2020 TERM",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3382"
+  },
+  {
+    "symbol": "IBDS",
+    "name": "ISHRS IBNDS DEC 27 CORP ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13385"
+  },
+  {
+    "symbol": "IBKCN",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15596"
+  },
+  {
+    "symbol": "IBMN",
+    "name": "ISHARES IBONDS DEC 2025 TERM",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15227"
+  },
+  {
+    "symbol": "ICAD",
+    "name": "ICAD INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3393"
+  },
+  {
+    "symbol": "ICLK",
+    "name": "ICLICK INTERACTIVE ASIA-ADR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13633"
+  },
+  {
+    "symbol": "ICVT",
+    "name": "ISHARES CONVERTIBLE BOND ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10073"
+  },
+  {
+    "symbol": "IDLV",
+    "name": "INVESCO S&P INTERNATIONAL DE",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3417"
+  },
+  {
+    "symbol": "IDV",
+    "name": "ISHARES INTERNATIONAL SELECT",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3426"
+  },
+  {
+    "symbol": "IEDI",
+    "name": "ISHARES EVOLVED US DISCRETIO",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14272"
+  },
+  {
+    "symbol": "IEMV",
+    "name": "INVESCO EMRG MRKTS DEBT VAL",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14851"
+  },
+  {
+    "symbol": "IFEU",
+    "name": "ISHARES EUROPE DEVELOPED REA",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3445"
+  },
+  {
+    "symbol": "IFS",
+    "name": "INTERCORP FINANCIAL SERVICES",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15906"
+  },
+  {
+    "symbol": "IGHG",
+    "name": "PROSHARES IG HEDGED",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "8091"
+  },
+  {
+    "symbol": "IGR",
+    "name": "CBRE CLARION GL R/E INCOME F",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3467"
+  },
+  {
+    "symbol": "IHE",
+    "name": "ISHARES US PHARMACEUTICALS E",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3475"
+  },
+  {
+    "symbol": "IHYV",
+    "name": "INVESCO CORP INC VALUE ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14853"
+  },
+  {
+    "symbol": "IIPR",
+    "name": "INNOVATIVE INDUSTRIAL PROPER",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11984"
+  },
+  {
+    "symbol": "IKNX",
+    "name": "IKONICS CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3498"
+  },
+  {
+    "symbol": "IMFD",
+    "name": "INVESCO MULTI-FACTOR DEFENSI",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15275"
+  },
+  {
+    "symbol": "IMO",
+    "name": "IMPERIAL OIL LTD",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3517"
+  },
+  {
+    "symbol": "IMXI",
+    "name": "INTERNATIONAL MONEY EXPRESS",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "12449"
+  },
+  {
+    "symbol": "INDA",
+    "name": "ISHARES MSCI INDIA ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3528"
+  },
+  {
+    "symbol": "INFU",
+    "name": "INFUSYSTEM HOLDINGS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3537"
+  },
+  {
+    "symbol": "INN-E",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13784"
+  },
+  {
+    "symbol": "INSI",
+    "name": "INSIGHT SELECT INCOME FUND",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1510"
+  },
+  {
+    "symbol": "INTC",
+    "name": "INTEL CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3557"
+  },
+  {
+    "symbol": "INWK",
+    "name": "INNERWORKINGS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3567"
+  },
+  {
+    "symbol": "IPAC",
+    "name": "ISHARES CORE MSCI PACIFIC ET",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "8712"
+  },
+  {
+    "symbol": "IPHS",
+    "name": "INNOPHOS HOLDINGS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3594"
+  },
+  {
+    "symbol": "IQDG",
+    "name": "WISDOMTREE INTL QLTY DVD GRW",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11217"
+  },
+  {
+    "symbol": "IRDM",
+    "name": "IRIDIUM COMMUNICATIONS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3613"
+  },
+  {
+    "symbol": "IRT",
+    "name": "INDEPENDENCE REALTY TRUST IN",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7725"
+  },
+  {
+    "symbol": "ISEM",
+    "name": "INVESCO RAFI STRATEGIC EMERG",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15001"
+  },
+  {
+    "symbol": "ISTB",
+    "name": "ISHARES CORE 1-5 YEAR USD BO",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3651"
+  },
+  {
+    "symbol": "ITI",
+    "name": "ITERIS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3659"
+  },
+  {
+    "symbol": "ITUB",
+    "name": "ITAU UNIBANCO H-SPON PRF ADR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3671"
+  },
+  {
+    "symbol": "IVE",
+    "name": "ISHARES S&P 500 VALUE ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3676"
+  },
+  {
+    "symbol": "IVR-C",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13303"
+  },
+  {
+    "symbol": "IWN",
+    "name": "ISHARES RUSSELL 2000 VALUE E",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3693"
+  },
+  {
+    "symbol": "IXG",
+    "name": "ISHARES GLOBAL FINANCIALS ET",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3705"
+  },
+  {
+    "symbol": "IYH",
+    "name": "ISHARES U.S. HEALTHCARE ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3715"
+  },
+  {
+    "symbol": "IZEA",
+    "name": "IZEA WORLDWIDE INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11107"
+  },
+  {
+    "symbol": "JAX",
+    "name": "J ALEXANDER'S HOLDINGS",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "9460"
+  },
+  {
+    "symbol": "JBT",
+    "name": "JOHN BEAN TECHNOLOGIES CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3743"
+  },
+  {
+    "symbol": "JCTCF",
+    "name": "JEWETT-CAMERON TRADING LTD",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3749"
+  },
+  {
+    "symbol": "JEMD",
+    "name": "NUVEEN EMERGING MARKETS DEBT",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13434"
+  },
+  {
+    "symbol": "JG",
+    "name": "AURORA MOBILE LTD-ADR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14798"
+  },
+  {
+    "symbol": "JHMC",
+    "name": "JOHN HANCOCK MULT FACT CONSU",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10598"
+  },
+  {
+    "symbol": "JHMU",
+    "name": "JOHN HANCOCK MULT FACT UTIL",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11197"
+  },
+  {
+    "symbol": "JJG",
+    "name": "IPATH SERIES B BLOOMBERG GRA",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14051"
+  },
+  {
+    "symbol": "JKF",
+    "name": "ISHARES MORNINGSTAR LARGE-CA",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3785"
+  },
+  {
+    "symbol": "JLS",
+    "name": "NUVEEN MORTGAGE & INCOME",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3796"
+  },
+  {
+    "symbol": "JMPD",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13832"
+  },
+  {
+    "symbol": "JNUG",
+    "name": "DIREXION DLY JR GOLD BULL 3X",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7844"
+  },
+  {
+    "symbol": "JPEM",
+    "name": "JPM DIVERSIFIED RET EM EQUIT",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "9639"
+  },
+  {
+    "symbol": "JPM-A*",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3822"
+  },
+  {
+    "symbol": "JPN",
+    "name": "XTRACKERS JAPAN JPX-NIKKEI 4",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10220"
+  },
+  {
+    "symbol": "JRI",
+    "name": "NUVEEN REAL ASST INC & GR FD",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3835"
+  },
+  {
+    "symbol": "JT",
+    "name": "JIANPU TECHNOLOGY INC- ADR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13729"
+  },
+  {
+    "symbol": "JYNT",
+    "name": "JOINT CORP/THE",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "9367"
+  },
+  {
+    "symbol": "KB",
+    "name": "KB FINANCIAL GROUP INC-ADR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3868"
+  },
+  {
+    "symbol": "KBSF",
+    "name": "KBS FASHION GROUP LTD",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "388"
+  },
+  {
+    "symbol": "KDMN",
+    "name": "KADMON HOLDINGS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11464"
+  },
+  {
+    "symbol": "KEP",
+    "name": "KOREA ELEC POWER CORP-SP ADR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3894"
+  },
+  {
+    "symbol": "KF",
+    "name": "KOREA FUND INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3902"
+  },
+  {
+    "symbol": "KIDS",
+    "name": "ORTHOPEDIATRICS CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13537"
+  },
+  {
+    "symbol": "KIRK",
+    "name": "KIRKLAND'S INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3927"
+  },
+  {
+    "symbol": "KLXE",
+    "name": "KLX ENERGY SERVICES HOLDING",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14961"
+  },
+  {
+    "symbol": "KN",
+    "name": "KNOWLES CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7846"
+  },
+  {
+    "symbol": "KO",
+    "name": "COCA-COLA CO/THE",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3952"
+  },
+  {
+    "symbol": "KOPN",
+    "name": "KOPIN CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3962"
+  },
+  {
+    "symbol": "KREF",
+    "name": "KKR REAL ESTATE FINANCE TRUS",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "12867"
+  },
+  {
+    "symbol": "KRYS",
+    "name": "KRYSTAL BIOTECH INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13307"
+  },
+  {
+    "symbol": "KTF",
+    "name": "DWS MUNICIPAL INCOME TRUST",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3991"
+  },
+  {
+    "symbol": "KW",
+    "name": "KENNEDY-WILSON HOLDINGS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3998"
+  },
+  {
+    "symbol": "LABD",
+    "name": "DRX DLY S&P BIOTECH BEAR 3X",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10032"
+  },
+  {
+    "symbol": "LAKE",
+    "name": "LAKELAND INDUSTRIES INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4018"
+  },
+  {
+    "symbol": "LAZ",
+    "name": "LAZARD LTD-CL A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4028"
+  },
+  {
+    "symbol": "LBTYA",
+    "name": "LIBERTY GLOBAL PLC-A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4034"
+  },
+  {
+    "symbol": "LCNB",
+    "name": "LCNB CORPORATION",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4042"
+  },
+  {
+    "symbol": "LDUR",
+    "name": "PIMCO ENHANCED LOW DURATION",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "8216"
+  },
+  {
+    "symbol": "LEGR",
+    "name": "FIRST TRUST INDXX INNOVATIVE",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14069"
+  },
+  {
+    "symbol": "LFAC",
+    "name": "LF CAPITAL ACQUISITION COR-A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14779"
+  },
+  {
+    "symbol": "LGF.A",
+    "name": "LIONS GATE ENTERTAINMENT-A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4071"
+  },
+  {
+    "symbol": "LHC",
+    "name": "LEO HOLDINGS CORP -A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14334"
+  },
+  {
+    "symbol": "LINC",
+    "name": "LINCOLN EDUCATIONAL SERVICES",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4087"
+  },
+  {
+    "symbol": "LJPC",
+    "name": "LA JOLLA PHARMACEUTICAL CO",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "8246"
+  },
+  {
+    "symbol": "LLNW",
+    "name": "LIMELIGHT NETWORKS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4103"
+  },
+  {
+    "symbol": "LMLB",
+    "name": "ETRACS MNTH PAY 2XL WF MLP-B",
+    "date": "2019-11-04",
+    "isEnabled": false,
+    "type": "N/A",
+    "iexId": "16225"
+  },
+  {
+    "symbol": "LN",
+    "name": "LINE CORP-SPONSORED ADR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11475"
+  },
+  {
+    "symbol": "LOACR",
+    "name": "LONGEVITY ACQUISITION CO-RTS",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15136"
+  },
+  {
+    "symbol": "LOMA",
+    "name": "LOMA NEGRA CIA IND-SPON ADR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13358"
+  },
+  {
+    "symbol": "LOWC",
+    "name": "SPDR MSCI ACWI LOW CARBON",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "9532"
+  },
+  {
+    "symbol": "LPX",
+    "name": "LOUISIANA-PACIFIC CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4154"
+  },
+  {
+    "symbol": "LRN",
+    "name": "K12 INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4160"
+  },
+  {
+    "symbol": "LSXMK",
+    "name": "LIBERTY MEDIA COR-SIRIUSXM C",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11250"
+  },
+  {
+    "symbol": "LTS",
+    "name": "LADENBURG THALMANN FINANCIAL",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4184"
+  },
+  {
+    "symbol": "LVGO",
+    "name": "LIVONGO HEALTH INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15936"
+  },
+  {
+    "symbol": "LWAY",
+    "name": "LIFEWAY FOODS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4199"
+  },
+  {
+    "symbol": "LYL",
+    "name": "DRAGON VICTORY INTERNATIONAL",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13617"
+  },
+  {
+    "symbol": "MACK",
+    "name": "MERRIMACK PHARMACEUTICALS IN",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4218"
+  },
+  {
+    "symbol": "MARA",
+    "name": "MARATHON PATENT GROUP INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "9104"
+  },
+  {
+    "symbol": "MAYS",
+    "name": "MAYS (J.W.) INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4242"
+  },
+  {
+    "symbol": "MBRX",
+    "name": "MOLECULIN BIOTECH INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11051"
+  },
+  {
+    "symbol": "MCC",
+    "name": "MEDLEY CAPITAL CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4262"
+  },
+  {
+    "symbol": "MCK",
+    "name": "MCKESSON CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4271"
+  },
+  {
+    "symbol": "MCX",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10925"
+  },
+  {
+    "symbol": "MDIV",
+    "name": "FT MULTI-ASSET DIVERS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4295"
+  },
+  {
+    "symbol": "MDRX",
+    "name": "ALLSCRIPTS HEALTHCARE SOLUTI",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4300"
+  },
+  {
+    "symbol": "MEDP",
+    "name": "MEDPACE HOLDINGS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11523"
+  },
+  {
+    "symbol": "MESO",
+    "name": "MESOBLAST LTD- SPON ADR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10848"
+  },
+  {
+    "symbol": "MFAC=",
+    "name": "MEGALITH FINANCIAL ACQUISITI",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14847"
+  },
+  {
+    "symbol": "MFM",
+    "name": "MFS MUNICIPAL INCOME TRUST",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4351"
+  },
+  {
+    "symbol": "MGC",
+    "name": "VANGUARD MEGA CAP ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4363"
+  },
+  {
+    "symbol": "MGP",
+    "name": "MGM GROWTH PROPERTIES LLC-A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11177"
+  },
+  {
+    "symbol": "MH-A",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14606"
+  },
+  {
+    "symbol": "MHLD",
+    "name": "MAIDEN HOLDINGS LTD",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4390"
+  },
+  {
+    "symbol": "MIDZ",
+    "name": "DIREXION DLY MID CAP BEAR 3X",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4405"
+  },
+  {
+    "symbol": "MINT",
+    "name": "PIMCO ENHANCED SHORT MATURIT",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4415"
+  },
+  {
+    "symbol": "MIY",
+    "name": "BLACKROCK MUNIYIELD MI QUALI",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4422"
+  },
+  {
+    "symbol": "MLCO",
+    "name": "MELCO RESORTS & ENTERT-ADR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4522"
+  },
+  {
+    "symbol": "MLPB",
+    "name": "ETRACS ALERIAN INFRAST SER B",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10665"
+  },
+  {
+    "symbol": "MLR",
+    "name": "MILLER INDUSTRIES INC/TENN",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4454"
+  },
+  {
+    "symbol": "MMLP",
+    "name": "MARTIN MIDSTREAM PARTNERS LP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4460"
+  },
+  {
+    "symbol": "MN",
+    "name": "MANNING & NAPIER INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4470"
+  },
+  {
+    "symbol": "MNLO",
+    "name": "MENLO THERAPEUTICS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13973"
+  },
+  {
+    "symbol": "MNTX",
+    "name": "MANITEX INTERNATIONAL INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4489"
+  },
+  {
+    "symbol": "MOGU",
+    "name": "MOGU INC-ADR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15220"
+  },
+  {
+    "symbol": "MOS",
+    "name": "MOSAIC CO/THE",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4511"
+  },
+  {
+    "symbol": "MPAA",
+    "name": "MOTORCAR PARTS OF AMERICA IN",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4518"
+  },
+  {
+    "symbol": "MQY",
+    "name": "BLACKROCK MUNIYIELD QUALITY",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4534"
+  },
+  {
+    "symbol": "MRIC",
+    "name": "MRI INTERVENTIONS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15903"
+  },
+  {
+    "symbol": "MRTN",
+    "name": "MARTEN TRANSPORT LTD",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4547"
+  },
+  {
+    "symbol": "MS-K",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "12364"
+  },
+  {
+    "symbol": "MSG",
+    "name": "MADISON SQUARE GARDEN CO- A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10548"
+  },
+  {
+    "symbol": "MTB",
+    "name": "M & T BANK CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4581"
+  },
+  {
+    "symbol": "MTFBW",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "12109"
+  },
+  {
+    "symbol": "MTR",
+    "name": "MESA ROYALTY TRUST",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4596"
+  },
+  {
+    "symbol": "MTZ",
+    "name": "MASTEC INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4610"
+  },
+  {
+    "symbol": "MUH",
+    "name": "BLACKROCK MUNIHOLDINGS FD II",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4622"
+  },
+  {
+    "symbol": "MVBF",
+    "name": "MVB FINANCIAL CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13883"
+  },
+  {
+    "symbol": "MWK",
+    "name": "MOHAWK GROUP HOLDINGS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15721"
+  },
+  {
+    "symbol": "MYC",
+    "name": "BLACKROCK MUNIYIELD CALI FD",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4661"
+  },
+  {
+    "symbol": "MYO",
+    "name": "MYOMO INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13008"
+  },
+  {
+    "symbol": "NAC",
+    "name": "NUVEEN CA QUAL MUNI INC FD",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4679"
+  },
+  {
+    "symbol": "NAT",
+    "name": "NORDIC AMERICAN TANKERS LTD",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4693"
+  },
+  {
+    "symbol": "NBEV",
+    "name": "NEW AGE BEVERAGES CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "12391"
+  },
+  {
+    "symbol": "NBRV",
+    "name": "NABRIVA THERAPEUTICS PLC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13069"
+  },
+  {
+    "symbol": "NCMI",
+    "name": "NATIONAL CINEMEDIA INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4731"
+  },
+  {
+    "symbol": "NDLS",
+    "name": "NOODLES & CO",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4747"
+  },
+  {
+    "symbol": "NEBUW",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14222"
+  },
+  {
+    "symbol": "NEO",
+    "name": "NEOGENOMICS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4767"
+  },
+  {
+    "symbol": "NESR",
+    "name": "NATIONAL ENERGY SERVICES REU",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "12979"
+  },
+  {
+    "symbol": "NEWR",
+    "name": "NEW RELIC INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "9542"
+  },
+  {
+    "symbol": "NFC=",
+    "name": "NEW FRONTIER CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14710"
+  },
+  {
+    "symbol": "NFRA",
+    "name": "FLEXSHARES STOXX GLOBAL BROA",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "8001"
+  },
+  {
+    "symbol": "NGHCZ",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10426"
+  },
+  {
+    "symbol": "NHA",
+    "name": "NUVEEN MUNI 2021 TGT TRM FD",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10723"
+  },
+  {
+    "symbol": "NIB",
+    "name": "IPATH BLOOMBERG COCOA SUBIND",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4807"
+  },
+  {
+    "symbol": "NIU",
+    "name": "NIU TECHNOLOGIES-SPONS ADR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15071"
+  },
+  {
+    "symbol": "NLNK",
+    "name": "NEWLINK GENETICS CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4833"
+  },
+  {
+    "symbol": "NM",
+    "name": "NAVIOS MARITIME HOLDINGS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4843"
+  },
+  {
+    "symbol": "NMK-C",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4850"
+  },
+  {
+    "symbol": "NNA",
+    "name": "NAVIOS MARITIME ACQUISITION",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4867"
+  },
+  {
+    "symbol": "NOAH",
+    "name": "NOAH HOLDINGS LTD-SPON ADS",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4883"
+  },
+  {
+    "symbol": "NOV",
+    "name": "NATIONAL OILWELL VARCO INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4891"
+  },
+  {
+    "symbol": "NPN",
+    "name": "NUVEEN PA MUNI VALUE FD",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4901"
+  },
+  {
+    "symbol": "NRGU",
+    "name": "MICROSECTORS US BIG OIL 3X",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15608"
+  },
+  {
+    "symbol": "NRZ-A",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15908"
+  },
+  {
+    "symbol": "NSCO+",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13510"
+  },
+  {
+    "symbol": "NSTG",
+    "name": "NANOSTRING TECHNOLOGIES INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4953"
+  },
+  {
+    "symbol": "NTEST.B",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11847"
+  },
+  {
+    "symbol": "NTP",
+    "name": "NAM TAI PROPERTY INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4964"
+  },
+  {
+    "symbol": "NTZ",
+    "name": "NATUZZI SPA-SP ADR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4982"
+  },
+  {
+    "symbol": "NULG",
+    "name": "NUVEEN ESG LARGE-CAP GROWTH",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "12176"
+  },
+  {
+    "symbol": "NUSA",
+    "name": "NUVEEN ENHANCED YIELD 1-5 YE",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "12751"
+  },
+  {
+    "symbol": "NVEE",
+    "name": "NV5 GLOBAL INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7811"
+  },
+  {
+    "symbol": "NVST",
+    "name": "ENVISTA HOLDINGS CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15963"
+  },
+  {
+    "symbol": "NWLI",
+    "name": "NATIONAL WESTERN LIFE GROU-A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10651"
+  },
+  {
+    "symbol": "NXN",
+    "name": "NUVEEN NY SEL TX-FR INC PORT",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5043"
+  },
+  {
+    "symbol": "NYCB",
+    "name": "NEW YORK COMMUNITY BANCORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5053"
+  },
+  {
+    "symbol": "NYNY",
+    "name": "EMPIRE RESORTS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5061"
+  },
+  {
+    "symbol": "OAK-B",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14927"
+  },
+  {
+    "symbol": "OCC",
+    "name": "OPTICAL CABLE CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5084"
+  },
+  {
+    "symbol": "OCUL",
+    "name": "OCULAR THERAPEUTIX INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "8861"
+  },
+  {
+    "symbol": "OFC",
+    "name": "CORPORATE OFFICE PROPERTIES",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5100"
+  },
+  {
+    "symbol": "OFSSL",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14469"
+  },
+  {
+    "symbol": "OI",
+    "name": "OWENS-ILLINOIS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5119"
+  },
+  {
+    "symbol": "OILX",
+    "name": "ETRACS S&P GSCI CRUDE OIL TO",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11076"
+  },
+  {
+    "symbol": "OLP",
+    "name": "ONE LIBERTY PROPERTIES INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5140"
+  },
+  {
+    "symbol": "OMN",
+    "name": "OMNOVA SOLUTIONS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5150"
+  },
+  {
+    "symbol": "ONE",
+    "name": "ONESMART INTERNATIONAL -ADR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14223"
+  },
+  {
+    "symbol": "OOMA",
+    "name": "OOMA INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10193"
+  },
+  {
+    "symbol": "OPI",
+    "name": "OFFICE PROPERTIES INCOME TRU",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2957"
+  },
+  {
+    "symbol": "OPTT",
+    "name": "OCEAN POWER TECHNOLOGIES INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5175"
+  },
+  {
+    "symbol": "ORG",
+    "name": "THE ORGANICS ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11450"
+  },
+  {
+    "symbol": "ORTX",
+    "name": "ORCHARD THERAPEUTICS PLC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15117"
+  },
+  {
+    "symbol": "OSMT",
+    "name": "OSMOTICA PHARMACEUTICALS PLC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15028"
+  },
+  {
+    "symbol": "OTLK",
+    "name": "OUTLOOK THERAPEUTICS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11304"
+  },
+  {
+    "symbol": "OVF",
+    "name": "OVERLAY SHARES FOREIGN EQUIT",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "16140"
+  },
+  {
+    "symbol": "OXFD",
+    "name": "OXFORD IMMUNOTEC GLOBAL PLC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "8130"
+  },
+  {
+    "symbol": "OYST",
+    "name": "OYSTER POINT PHARMA INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "16163"
+  },
+  {
+    "symbol": "PACB",
+    "name": "PACIFIC BIOSCIENCES OF CALIF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5230"
+  },
+  {
+    "symbol": "PAGS",
+    "name": "PAGSEGURO DIGITAL LTD-CL A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13963"
+  },
+  {
+    "symbol": "PARR",
+    "name": "PAR PACIFIC HOLDINGS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "8984"
+  },
+  {
+    "symbol": "PAYC",
+    "name": "PAYCOM SOFTWARE INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "8417"
+  },
+  {
+    "symbol": "PBD",
+    "name": "INVESCO GLOBAL CLEAN ENERGY",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5256"
+  },
+  {
+    "symbol": "PBI-B",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5263"
+  },
+  {
+    "symbol": "PBT",
+    "name": "PERMIAN BASIN ROYALTY TRUST",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5275"
+  },
+  {
+    "symbol": "PCF",
+    "name": "HIGH INCOME SECURITIES FUND",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5285"
+  },
+  {
+    "symbol": "PCH",
+    "name": "POTLATCHDELTIC CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5295"
+  },
+  {
+    "symbol": "PCTY",
+    "name": "PAYLOCITY HOLDING CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "8464"
+  },
+  {
+    "symbol": "PDEX",
+    "name": "PRO-DEX INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5315"
+  },
+  {
+    "symbol": "PDT",
+    "name": "JOHN HAN PREMIUM DIVIDEND FD",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5326"
+  },
+  {
+    "symbol": "PED",
+    "name": "PEDEVCO CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7759"
+  },
+  {
+    "symbol": "PEK",
+    "name": "VANECK CHINCA AMC CSI 300",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5340"
+  },
+  {
+    "symbol": "PETZ",
+    "name": "TDH HOLDINGS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13331"
+  },
+  {
+    "symbol": "PFFA",
+    "name": "Virtus InfraCap US PFD ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14547"
+  },
+  {
+    "symbol": "PFIN",
+    "name": "P & F INDUSTRIES -CL A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5373"
+  },
+  {
+    "symbol": "PFS",
+    "name": "PROVIDENT FINANCIAL SERVICES",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5382"
+  },
+  {
+    "symbol": "PGM",
+    "name": "IPATH SERIES B BBG PLATINUM",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14059"
+  },
+  {
+    "symbol": "PHAS",
+    "name": "PHASEBIO PHARMACEUTICALS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15063"
+  },
+  {
+    "symbol": "PHI",
+    "name": "PLDT INC-SPON ADR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5412"
+  },
+  {
+    "symbol": "PHX",
+    "name": "PANHANDLE OIL AND GAS INC-A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5420"
+  },
+  {
+    "symbol": "PID",
+    "name": "INVESCO INTERNATIONAL DIVIDE",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5425"
+  },
+  {
+    "symbol": "PINS",
+    "name": "PINTEREST INC- CLASS A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15552"
+  },
+  {
+    "symbol": "PJP",
+    "name": "INVESCO DYNAMIC PHARMACEUTIC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5442"
+  },
+  {
+    "symbol": "PKI",
+    "name": "PERKINELMER INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5450"
+  },
+  {
+    "symbol": "PLBC",
+    "name": "PLUMAS BANCORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5462"
+  },
+  {
+    "symbol": "PLNT",
+    "name": "PLANET FITNESS INC - CL A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10226"
+  },
+  {
+    "symbol": "PLXP",
+    "name": "PLX PHARMA INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "8314"
+  },
+  {
+    "symbol": "PML",
+    "name": "PIMCO MUNICIPAL INCOME FD II",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5493"
+  },
+  {
+    "symbol": "PNBK",
+    "name": "PATRIOT NATIONAL BANCORP INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5501"
+  },
+  {
+    "symbol": "PNOV",
+    "name": "INNOVATOR S&P POWER BUFFER-N",
+    "date": "2019-11-04",
+    "isEnabled": false,
+    "type": "N/A",
+    "iexId": "16250"
+  },
+  {
+    "symbol": "POL",
+    "name": "POLYONE CORPORATION",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5522"
+  },
+  {
+    "symbol": "PPBI",
+    "name": "PACIFIC PREMIER BANCORP INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5534"
+  },
+  {
+    "symbol": "PPLC",
+    "name": "PORTFOLIO PLUS S&P 500 ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "9643"
+  },
+  {
+    "symbol": "PQG",
+    "name": "PQ GROUP HOLDINGS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13013"
+  },
+  {
+    "symbol": "PRE-G",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14613"
+  },
+  {
+    "symbol": "PRH",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5564"
+  },
+  {
+    "symbol": "PRLB",
+    "name": "PROTO LABS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5571"
+  },
+  {
+    "symbol": "PRPL",
+    "name": "PURPLE INNOVATION INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10398"
+  },
+  {
+    "symbol": "PRTO",
+    "name": "PROTEON THERAPEUTICS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "9273"
+  },
+  {
+    "symbol": "PSA-C",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11397"
+  },
+  {
+    "symbol": "PSB",
+    "name": "PS BUSINESS PARKS INC/CA",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5599"
+  },
+  {
+    "symbol": "PSCF",
+    "name": "INVESCO S&P SMALLCAP FINANCI",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5609"
+  },
+  {
+    "symbol": "PSF",
+    "name": "COHEN & STEERS SELECT PREFER",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5619"
+  },
+  {
+    "symbol": "PSMM",
+    "name": "INVESCO MODERATELY CONSERVAT",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "12407"
+  },
+  {
+    "symbol": "PSTI",
+    "name": "PLURISTEM THERAPEUTICS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5634"
+  },
+  {
+    "symbol": "PTCT",
+    "name": "PTC THERAPEUTICS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5640"
+  },
+  {
+    "symbol": "PTLC",
+    "name": "PACER TRENDPILOT US LARGE CA",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10061"
+  },
+  {
+    "symbol": "PTVCB",
+    "name": "PROTECTIVE INSURANCE CORP- B",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "975"
+  },
+  {
+    "symbol": "PUTW",
+    "name": "WISDOMTREE CBOE S&P 500 PTWT",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11097"
+  },
+  {
+    "symbol": "PVT+",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15556"
+  },
+  {
+    "symbol": "PWS",
+    "name": "PACER WEALTHSHIELD ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13894"
+  },
+  {
+    "symbol": "PXQ",
+    "name": "INVESCO DYNAMIC NETWORKING E",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5702"
+  },
+  {
+    "symbol": "PZA",
+    "name": "INVESCO NATIONAL AMT-FREE MU",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5717"
+  },
+  {
+    "symbol": "QAI",
+    "name": "IQ HEDGE MULTI-STRAT TRACKER",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5732"
+  },
+  {
+    "symbol": "QDF",
+    "name": "FLEXSHARES QUALITY DIVIDEND",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5741"
+  },
+  {
+    "symbol": "QGRO",
+    "name": "AMERICAN CENTURY STOXX US QL",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15011"
+  },
+  {
+    "symbol": "QLV",
+    "name": "FLEXSHARES US QUALITY LOW VO",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15937"
+  },
+  {
+    "symbol": "QQQE",
+    "name": "DIREXION NASDAQ-100 EQ WEIGH",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5767"
+  },
+  {
+    "symbol": "QTEC",
+    "name": "FIRST TRUST NASDQ 100 TECH I",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5773"
+  },
+  {
+    "symbol": "QUAD",
+    "name": "QUAD GRAPHICS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5776"
+  },
+  {
+    "symbol": "QWLD",
+    "name": "SPDR MSCI WORLD STRATEGICFAC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "8691"
+  },
+  {
+    "symbol": "RAMP",
+    "name": "LIVERAMP HOLDINGS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "82"
+  },
+  {
+    "symbol": "RBBN",
+    "name": "RIBBON COMMUNICATIONS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13681"
+  },
+  {
+    "symbol": "RC",
+    "name": "READY CAPITAL CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7684"
+  },
+  {
+    "symbol": "RCL",
+    "name": "ROYAL CARIBBEAN CRUISES LTD",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5813"
+  },
+  {
+    "symbol": "RDI",
+    "name": "READING INTERNATIONAL INC-A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5823"
+  },
+  {
+    "symbol": "RDWR",
+    "name": "RADWARE LTD",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5829"
+  },
+  {
+    "symbol": "REET",
+    "name": "ISHARES GLOBAL REIT ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "8941"
+  },
+  {
+    "symbol": "RELL",
+    "name": "RICHARDSON ELEC LTD",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5845"
+  },
+  {
+    "symbol": "RES",
+    "name": "RPC INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5853"
+  },
+  {
+    "symbol": "REX",
+    "name": "REX AMERICAN RESOURCES CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5859"
+  },
+  {
+    "symbol": "RF-B",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "8590"
+  },
+  {
+    "symbol": "RFI",
+    "name": "COHEN & STEERS TOT RET RLTY",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5867"
+  },
+  {
+    "symbol": "RGLB",
+    "name": "INVESCO GLOBAL REVENUE ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15777"
+  },
+  {
+    "symbol": "RHI",
+    "name": "ROBERT HALF INTL INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5890"
+  },
+  {
+    "symbol": "RILY",
+    "name": "B. RILEY FINANCIAL INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10311"
+  },
+  {
+    "symbol": "RING",
+    "name": "ISHARES MSCI GLOBAL GOLD MIN",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5902"
+  },
+  {
+    "symbol": "RJZ",
+    "name": "ELEMENTS ROGERS METALS TR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5914"
+  },
+  {
+    "symbol": "RLY",
+    "name": "SPDR SSGA MULTI-ASSET REAL R",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5929"
+  },
+  {
+    "symbol": "RMG+",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15578"
+  },
+  {
+    "symbol": "RNDM",
+    "name": "DEVELOPED INT SELECT EQUITY",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13033"
+  },
+  {
+    "symbol": "RNR-C",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14620"
+  },
+  {
+    "symbol": "ROBT",
+    "name": "FIRST TRUST NASDAQ ARTIFICIA",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14175"
+  },
+  {
+    "symbol": "ROL",
+    "name": "ROLLINS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5958"
+  },
+  {
+    "symbol": "ROST",
+    "name": "ROSS STORES INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5967"
+  },
+  {
+    "symbol": "RPLA=",
+    "name": "REPLAY ACQUISITION CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15533"
+  },
+  {
+    "symbol": "RRGB",
+    "name": "RED ROBIN GOURMET BURGERS",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5989"
+  },
+  {
+    "symbol": "RTH",
+    "name": "VANECK RETAIL ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6011"
+  },
+  {
+    "symbol": "RUBY",
+    "name": "RUBIUS THERAPEUTICS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14777"
+  },
+  {
+    "symbol": "RVLV",
+    "name": "REVOLVE GROUP INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15786"
+  },
+  {
+    "symbol": "RWED",
+    "name": "DIREXION MSCI EM/DM",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15384"
+  },
+  {
+    "symbol": "RWLS",
+    "name": "DIREXION RUSSELL LARGE/SMALL",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15387"
+  },
+  {
+    "symbol": "RXD",
+    "name": "PROSHARES ULTRASHORT HEALTH",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6048"
+  },
+  {
+    "symbol": "RYE",
+    "name": "INVESCO S&P 500 EQUAL WEIGHT",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14413"
+  },
+  {
+    "symbol": "RYZZ",
+    "name": "RYZZ MNGED FUT STRAT PLUS",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15514"
+  },
+  {
+    "symbol": "SACH",
+    "name": "SACHEM CAPITAL CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "12369"
+  },
+  {
+    "symbol": "SAIC",
+    "name": "SCIENCE APPLICATIONS INTE",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7769"
+  },
+  {
+    "symbol": "SAN",
+    "name": "BANCO SANTANDER SA-SPON ADR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6081"
+  },
+  {
+    "symbol": "SAVA",
+    "name": "CASSAVA SCIENCES INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5646"
+  },
+  {
+    "symbol": "SBE",
+    "name": "SWITCHBACK ENERGY ACQUISIT-A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "16062"
+  },
+  {
+    "symbol": "SBLK",
+    "name": "STAR BULK CARRIERS CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6103"
+  },
+  {
+    "symbol": "SBSI",
+    "name": "SOUTHSIDE BANCSHARES INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6112"
+  },
+  {
+    "symbol": "SCD",
+    "name": "LMP CAPITAL AND INCOME FUND",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6120"
+  },
+  {
+    "symbol": "SCHA",
+    "name": "SCHWAB US SMALL-CAP ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6128"
+  },
+  {
+    "symbol": "SCHK",
+    "name": "SCHWAB 1000 INDEX ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13539"
+  },
+  {
+    "symbol": "SCHW-C",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10380"
+  },
+  {
+    "symbol": "SCJ",
+    "name": "ISHARES MSCI JAPAN SMALL-CAP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6150"
+  },
+  {
+    "symbol": "SCPE=",
+    "name": "SC HEALTH CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15920"
+  },
+  {
+    "symbol": "SCZ",
+    "name": "ISHARES MSCI EAFE SMALL-CAP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6171"
+  },
+  {
+    "symbol": "SDIV",
+    "name": "GLOBAL X SUPERDIVIDEND ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6174"
+  },
+  {
+    "symbol": "SDY",
+    "name": "SPDR S&P DIVIDEND ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6188"
+  },
+  {
+    "symbol": "SEE",
+    "name": "SEALED AIR CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6196"
+  },
+  {
+    "symbol": "SENEA",
+    "name": "SENECA FOODS CORP - CL A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6202"
+  },
+  {
+    "symbol": "SFBC",
+    "name": "SOUND FINANCIAL BANCORP INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6208"
+  },
+  {
+    "symbol": "SFST",
+    "name": "SOUTHERN FIRST BANCSHARES",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6225"
+  },
+  {
+    "symbol": "SGC",
+    "name": "SUPERIOR GROUP OF COS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6232"
+  },
+  {
+    "symbol": "SGMS",
+    "name": "SCIENTIFIC GAMES CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14017"
+  },
+  {
+    "symbol": "SHE",
+    "name": "SPDR GENDER DIVERSITY ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11135"
+  },
+  {
+    "symbol": "SHLO",
+    "name": "SHILOH INDUSTRIES INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6260"
+  },
+  {
+    "symbol": "SHW",
+    "name": "SHERWIN-WILLIAMS CO/THE",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6269"
+  },
+  {
+    "symbol": "SIF",
+    "name": "SIFCO INDUSTRIES",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6276"
+  },
+  {
+    "symbol": "SILV",
+    "name": "SILVERCREST METALS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14943"
+  },
+  {
+    "symbol": "SITC-J*",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1720"
+  },
+  {
+    "symbol": "SJI",
+    "name": "SOUTH JERSEY INDUSTRIES",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6305"
+  },
+  {
+    "symbol": "SKOR",
+    "name": "FLEXSHARES CREDIT-SCORED US",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "9494"
+  },
+  {
+    "symbol": "SLCT",
+    "name": "SELECT BANCORP INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "4727"
+  },
+  {
+    "symbol": "SLMBP",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6336"
+  },
+  {
+    "symbol": "SLVO",
+    "name": "X-LINKS SLVR SHRS COVRD CALL",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6344"
+  },
+  {
+    "symbol": "SMBK",
+    "name": "SMARTFINANCIAL INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10951"
+  },
+  {
+    "symbol": "SMHD",
+    "name": "ETRACS MON PAY 2X LEV US SM",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "9717"
+  },
+  {
+    "symbol": "SMMCU",
+    "name": "SOUTH MOUNTAIN MERGER CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15811"
+  },
+  {
+    "symbol": "SMPL",
+    "name": "SIMPLY GOOD FOODS CO/THE",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13107"
+  },
+  {
+    "symbol": "SNCA",
+    "name": "NEURALSTEM INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1578"
+  },
+  {
+    "symbol": "SNGX",
+    "name": "SOLIGENIX INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "12195"
+  },
+  {
+    "symbol": "SNOAW",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "9658"
+  },
+  {
+    "symbol": "SNX",
+    "name": "SYNNEX CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6403"
+  },
+  {
+    "symbol": "SOI",
+    "name": "SOLARIS OILFIELD INFRAST-A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "12483"
+  },
+  {
+    "symbol": "SON",
+    "name": "SONOCO PRODUCTS CO",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6414"
+  },
+  {
+    "symbol": "SOXS",
+    "name": "DIREXION DAILY SEMI BEAR 3X",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6423"
+  },
+  {
+    "symbol": "SPBO",
+    "name": "SPDR PORTFOLIO CORPORATE BON",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "1084"
+  },
+  {
+    "symbol": "SPEM",
+    "name": "SPDR PORTFOLIO EMERGING MARK",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2926"
+  },
+  {
+    "symbol": "SPH",
+    "name": "SUBURBAN PROPANE PARTNERS LP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6441"
+  },
+  {
+    "symbol": "SPKEP",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "12498"
+  },
+  {
+    "symbol": "SPMV",
+    "name": "INVESCO S&P 500 MINIMUM VARI",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13122"
+  },
+  {
+    "symbol": "SPSB",
+    "name": "SPDR PORT SHRT TRM CORP BND",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6161"
+  },
+  {
+    "symbol": "SPVU",
+    "name": "INVESCO S&P 500 ENHANCED VAL",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10680"
+  },
+  {
+    "symbol": "SPXU",
+    "name": "PROSH ULTRAPRO SHORT S&P 500",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6471"
+  },
+  {
+    "symbol": "SQBG",
+    "name": "SEQUENTIAL BRANDS GROUP INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10911"
+  },
+  {
+    "symbol": "SRCE",
+    "name": "1ST SOURCE CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6482"
+  },
+  {
+    "symbol": "SRF",
+    "name": "CUSHING ENERGY INCOME FUND/T",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6487"
+  },
+  {
+    "symbol": "SRRK",
+    "name": "SCHOLAR ROCK HOLDING CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14490"
+  },
+  {
+    "symbol": "SSD",
+    "name": "SIMPSON MANUFACTURING CO INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6496"
+  },
+  {
+    "symbol": "SSPKU",
+    "name": "SILVER SPIKE ACQUISITION COR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15952"
+  },
+  {
+    "symbol": "SSW-G",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14633"
+  },
+  {
+    "symbol": "STAG-C",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11159"
+  },
+  {
+    "symbol": "STFC",
+    "name": "STATE AUTO FINANCIAL CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6529"
+  },
+  {
+    "symbol": "STL-A",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13474"
+  },
+  {
+    "symbol": "STNLU",
+    "name": "SENTINEL ENERGY SERVICES INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13696"
+  },
+  {
+    "symbol": "STRM",
+    "name": "STREAMLINE HEALTH SOLUTIONS",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6557"
+  },
+  {
+    "symbol": "STWD",
+    "name": "STARWOOD PROPERTY TRUST INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6570"
+  },
+  {
+    "symbol": "SUMR",
+    "name": "SUMMER INFANT INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6580"
+  },
+  {
+    "symbol": "SUSC",
+    "name": "ISHARES ESG USD CORPORATE BO",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13125"
+  },
+  {
+    "symbol": "SVVC",
+    "name": "FIRSTHAND TECHNOLOGY VALUE",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6600"
+  },
+  {
+    "symbol": "SWM",
+    "name": "SCHWEITZER-MAUDUIT INTL INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6610"
+  },
+  {
+    "symbol": "SY",
+    "name": "SO-YOUNG INTERNATIONAL-ADR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15603"
+  },
+  {
+    "symbol": "SYN",
+    "name": "SYNTHETIC BIOLOGICS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6633"
+  },
+  {
+    "symbol": "SZC",
+    "name": "CUSHING RENAISSANCE FUND/THE",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6645"
+  },
+  {
+    "symbol": "TAIL",
+    "name": "CAMBRIA TAIL RISK ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "12763"
+  },
+  {
+    "symbol": "TANNZ",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10688"
+  },
+  {
+    "symbol": "TAWK",
+    "name": "DIREXION DAILY COMM BULL 3X",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15378"
+  },
+  {
+    "symbol": "TBLT",
+    "name": "TOUGHBUILT INDUSTRIES INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14816"
+  },
+  {
+    "symbol": "TCBI",
+    "name": "TEXAS CAPITAL BANCSHARES INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6693"
+  },
+  {
+    "symbol": "TCLD",
+    "name": "TORTOISE CLOUD INFRASTRUCTUR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15414"
+  },
+  {
+    "symbol": "TCRW",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15130"
+  },
+  {
+    "symbol": "TDC",
+    "name": "TERADATA CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6712"
+  },
+  {
+    "symbol": "TDTT",
+    "name": "FLEXSHARES IBOXX 3-YEAR TARG",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6724"
+  },
+  {
+    "symbol": "TECK",
+    "name": "TECK RESOURCES LTD-CLS B",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6702"
+  },
+  {
+    "symbol": "TENB",
+    "name": "TENABLE HOLDINGS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14797"
+  },
+  {
+    "symbol": "TFFP",
+    "name": "TFF PHARMACEUTICALS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "16020"
+  },
+  {
+    "symbol": "TGC",
+    "name": "TENGASCO INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6762"
+  },
+  {
+    "symbol": "TGS",
+    "name": "TRANSPORTADOR GAS SUR-SP B",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6771"
+  },
+  {
+    "symbol": "THCAW",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15977"
+  },
+  {
+    "symbol": "THMO",
+    "name": "CESCA THERAPEUTICS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3960"
+  },
+  {
+    "symbol": "TIBR",
+    "name": "TIBERIUS ACQUISITION CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14351"
+  },
+  {
+    "symbol": "TIPX",
+    "name": "SPDR BBG BARC 1-10YR TIPS",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6805"
+  },
+  {
+    "symbol": "TKKSR",
+    "name": "TKK SYMPHONY ACQUISITION-RTS",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15005"
+  },
+  {
+    "symbol": "TLI",
+    "name": "WESTERN ASSET CORPORATE LOAN",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6821"
+  },
+  {
+    "symbol": "TLYS",
+    "name": "TILLY'S INC-CLASS A SHRS",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6832"
+  },
+  {
+    "symbol": "TMHC",
+    "name": "TAYLOR MORRISON HOME CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6836"
+  },
+  {
+    "symbol": "TNC",
+    "name": "TENNANT CO",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6847"
+  },
+  {
+    "symbol": "TOCA",
+    "name": "TOCAGEN INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "12758"
+  },
+  {
+    "symbol": "TORC",
+    "name": "RESTORBIO INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14033"
+  },
+  {
+    "symbol": "TPB",
+    "name": "TURNING POINT BRANDS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10818"
+  },
+  {
+    "symbol": "TPL",
+    "name": "TEXAS PACIFIC LAND TRUST",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6868"
+  },
+  {
+    "symbol": "TPZ",
+    "name": "TORTOISE POWER & ENRGY INFRA",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6872"
+  },
+  {
+    "symbol": "TRHC",
+    "name": "TABULA RASA HEALTHCARE INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11004"
+  },
+  {
+    "symbol": "TRND",
+    "name": "PACER TRENDPILOT FUNDS OF FD",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15688"
+  },
+  {
+    "symbol": "TRP",
+    "name": "TC ENERGY CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6905"
+  },
+  {
+    "symbol": "TRTY",
+    "name": "CAMBRIA TRINITY ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15006"
+  },
+  {
+    "symbol": "TRXC",
+    "name": "TRANSENTERIX INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "8551"
+  },
+  {
+    "symbol": "TSI",
+    "name": "TCW STRATEGIC INCOME FUND IN",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6922"
+  },
+  {
+    "symbol": "TTAI",
+    "name": "TRIMTABS ALL CAP INT CSH FLO",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13072"
+  },
+  {
+    "symbol": "TTOO",
+    "name": "T2 BIOSYSTEMS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "8934"
+  },
+  {
+    "symbol": "TUP",
+    "name": "TUPPERWARE BRANDS CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6957"
+  },
+  {
+    "symbol": "TVTY",
+    "name": "TIVITY HEALTH INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3335"
+  },
+  {
+    "symbol": "TWNKW",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10711"
+  },
+  {
+    "symbol": "TX",
+    "name": "TERNIUM SA-SPONSORED ADR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6980"
+  },
+  {
+    "symbol": "TYG",
+    "name": "TORTOISE ENERGY INFRASTRUCT",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "6993"
+  },
+  {
+    "symbol": "UA",
+    "name": "UNDER ARMOUR INC-CLASS C",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11183"
+  },
+  {
+    "symbol": "UAVS",
+    "name": "AGEAGLE AERIAL SYSTEMS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "8833"
+  },
+  {
+    "symbol": "UBP-H",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13431"
+  },
+  {
+    "symbol": "UCHF",
+    "name": "VELOCITYSHARES DAILY 4X LONG",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13904"
+  },
+  {
+    "symbol": "UE",
+    "name": "URBAN EDGE PROPERTIES",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "9619"
+  },
+  {
+    "symbol": "UFPI",
+    "name": "UNIVERSAL FOREST PRODUCTS",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7060"
+  },
+  {
+    "symbol": "UGLD",
+    "name": "VELOCITYSHARES 3X LONG GOLD",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7070"
+  },
+  {
+    "symbol": "UJAN",
+    "name": "INNOVATOR S&P 500 ULTRA-JAN",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15347"
+  },
+  {
+    "symbol": "ULST",
+    "name": "SPDR ULTRA SHORT-TERM BOND",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "8008"
+  },
+  {
+    "symbol": "UMH-D",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14085"
+  },
+  {
+    "symbol": "UNIT",
+    "name": "UNITI GROUP INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "9928"
+  },
+  {
+    "symbol": "UONE",
+    "name": "URBAN ONE INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "5953"
+  },
+  {
+    "symbol": "URE",
+    "name": "PROSHARES ULTRA REAL ESTATE",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7127"
+  },
+  {
+    "symbol": "USAI",
+    "name": "AMERN ENERGY INDEPENDENCE ET",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13908"
+  },
+  {
+    "symbol": "USB-P",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14936"
+  },
+  {
+    "symbol": "USFD",
+    "name": "US FOODS HOLDING CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11066"
+  },
+  {
+    "symbol": "USLV",
+    "name": "VELOCITYSHARES 3X LNG SILVER",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7157"
+  },
+  {
+    "symbol": "USPH",
+    "name": "U.S. PHYSICAL THERAPY INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7165"
+  },
+  {
+    "symbol": "UTES",
+    "name": "VIRTUS REAVES UTILITIES ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10580"
+  },
+  {
+    "symbol": "UTX",
+    "name": "UNITED TECHNOLOGIES CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7180"
+  },
+  {
+    "symbol": "UWT",
+    "name": "VELOCITYSHARES 3X LONG CRUDE",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "12168"
+  },
+  {
+    "symbol": "VAL",
+    "name": "VALARIS PLC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "2266"
+  },
+  {
+    "symbol": "VAW",
+    "name": "VANGUARD MATERIALS ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7209"
+  },
+  {
+    "symbol": "VC",
+    "name": "VISTEON CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7215"
+  },
+  {
+    "symbol": "VCTR",
+    "name": "VICTORY CAPITAL HOLDING - A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14094"
+  },
+  {
+    "symbol": "VEGA",
+    "name": "ADVSHRS STAR GBL BUY-WRITE",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7233"
+  },
+  {
+    "symbol": "VERY",
+    "name": "VERICITY INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15822"
+  },
+  {
+    "symbol": "VFMO",
+    "name": "VANGUARD US MOMENTUM FACTOR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14147"
+  },
+  {
+    "symbol": "VGM",
+    "name": "INVESCO TRUST FOR INVESTMEN",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7248"
+  },
+  {
+    "symbol": "VIAV",
+    "name": "VIAVI SOLUTIONS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "3751"
+  },
+  {
+    "symbol": "VIOO",
+    "name": "VANGUARD S&P SMALL-CAP 600 E",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7270"
+  },
+  {
+    "symbol": "VIV",
+    "name": "TELEFONICA BRASIL-ADR PREF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7278"
+  },
+  {
+    "symbol": "VLGEA",
+    "name": "VILLAGE SUPER MARKET-CLASS A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7286"
+  },
+  {
+    "symbol": "VMBS",
+    "name": "VANGUARD MORTGAGE-BACKED SEC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7295"
+  },
+  {
+    "symbol": "VNE",
+    "name": "VEONEER INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "14725"
+  },
+  {
+    "symbol": "VNQI",
+    "name": "VANGUARD GLBL EX-US REAL EST",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7312"
+  },
+  {
+    "symbol": "VONV",
+    "name": "VANGUARD RUSSELL 1000 VALUE",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7324"
+  },
+  {
+    "symbol": "VPG",
+    "name": "VISHAY PRECISION GROUP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7333"
+  },
+  {
+    "symbol": "VRIG",
+    "name": "INVESCO VARIABLE RATE INVEST",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11869"
+  },
+  {
+    "symbol": "VRTS",
+    "name": "VIRTUS INVESTMENT PARTNERS",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7352"
+  },
+  {
+    "symbol": "VSI",
+    "name": "VITAMIN SHOPPE INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7363"
+  },
+  {
+    "symbol": "VTA",
+    "name": "INVESCO DYNAMIC CREDIT OPP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7369"
+  },
+  {
+    "symbol": "VTN",
+    "name": "INVESCO TRUST FOR INVESTMENT",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7374"
+  },
+  {
+    "symbol": "VUSE",
+    "name": "VIDENT CORE US EQUITY ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "8224"
+  },
+  {
+    "symbol": "VXF",
+    "name": "VANGUARD EXTENDED MARKET ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7394"
+  },
+  {
+    "symbol": "WAAS",
+    "name": "AQUAVENTURE HOLDINGS LTD",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10605"
+  },
+  {
+    "symbol": "WAT",
+    "name": "WATERS CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7410"
+  },
+  {
+    "symbol": "WBII",
+    "name": "WBI BULLBEAR GLOBAL INCOME E",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "9199"
+  },
+  {
+    "symbol": "WCC",
+    "name": "WESCO INTERNATIONAL INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7422"
+  },
+  {
+    "symbol": "WDR",
+    "name": "WADDELL & REED FINANCIAL-A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7433"
+  },
+  {
+    "symbol": "WES",
+    "name": "WESTERN MIDSTREAM PARTNERS L",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7462"
+  },
+  {
+    "symbol": "WFC-Q",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7454"
+  },
+  {
+    "symbol": "WGO",
+    "name": "WINNEBAGO INDUSTRIES",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7461"
+  },
+  {
+    "symbol": "WHR",
+    "name": "WHIRLPOOL CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7468"
+  },
+  {
+    "symbol": "WIRE",
+    "name": "ENCORE WIRE CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7479"
+  },
+  {
+    "symbol": "WLFC",
+    "name": "WILLIS LEASE FINANCE CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7486"
+  },
+  {
+    "symbol": "WMK",
+    "name": "WEIS MARKETS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7499"
+  },
+  {
+    "symbol": "WORX",
+    "name": "SCWORX CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11731"
+  },
+  {
+    "symbol": "WPX",
+    "name": "WPX ENERGY INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7518"
+  },
+  {
+    "symbol": "WRLS",
+    "name": "PENSARE ACQUISITION CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13230"
+  },
+  {
+    "symbol": "WSG",
+    "name": "WANDA SPORTS GROUP CO LT-ADR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15826"
+  },
+  {
+    "symbol": "WTFC",
+    "name": "WINTRUST FINANCIAL CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7547"
+  },
+  {
+    "symbol": "WTRH",
+    "name": "WAITR HOLDINGS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11629"
+  },
+  {
+    "symbol": "WVVIP",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "10795"
+  },
+  {
+    "symbol": "WYY",
+    "name": "WIDEPOINT CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7569"
+  },
+  {
+    "symbol": "XBUY",
+    "name": "AMPLIFY INTL ONLINE RETAIL",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "15411"
+  },
+  {
+    "symbol": "XENT",
+    "name": "INTERSECT ENT INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "8956"
+  },
+  {
+    "symbol": "XIN",
+    "name": "XINYUAN REAL ESTATE CO L-ADR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7586"
+  },
+  {
+    "symbol": "XLNX",
+    "name": "XILINX INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7597"
+  },
+  {
+    "symbol": "XLY",
+    "name": "CONSUMER DISCRETIONARY SELT",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7602"
+  },
+  {
+    "symbol": "XOG",
+    "name": "EXTRACTION OIL & GAS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11935"
+  },
+  {
+    "symbol": "XPL",
+    "name": "SOLITARIO ZINC CORP",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7617"
+  },
+  {
+    "symbol": "XSHQ",
+    "name": "INVESCO S&P SMALLCAP QUALITY",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "12764"
+  },
+  {
+    "symbol": "XTLB",
+    "name": "XTL BIOPHARMACEUTICALS-ADR",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7634"
+  },
+  {
+    "symbol": "YCBD",
+    "name": "CBDMD INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "13670"
+  },
+  {
+    "symbol": "YGYIP",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "16094"
+  },
+  {
+    "symbol": "YNDX",
+    "name": "YANDEX NV-A",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7657"
+  },
+  {
+    "symbol": "YUMC",
+    "name": "YUM CHINA HOLDINGS INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "11882"
+  },
+  {
+    "symbol": "ZB-G",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7677"
+  },
+  {
+    "symbol": "ZDEU",
+    "name": "SPDR SOLACTIVE GERMANY ETF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "8718"
+  },
+  {
+    "symbol": "ZGNX",
+    "name": "ZOGENIX INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7685"
+  },
+  {
+    "symbol": "ZJZZT",
+    "name": "",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7905"
+  },
+  {
+    "symbol": "ZROZ",
+    "name": "PIMCO 25+ YR ZERO CPN US TIF",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "7705"
+  },
+  {
+    "symbol": "ZVO",
+    "name": "ZOVIO INC",
+    "date": "2019-11-04",
+    "isEnabled": true,
+    "type": "N/A",
+    "iexId": "865"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "name": "Bitcoin USD",
+    "date": "2019-11-03",
+    "isEnabled": true,
+    "type": "crypto",
+    "iexId": 10000000
+  },
+  {
+    "symbol": "LTCUSDT",
+    "name": "Litecoin USD",
+    "date": "2019-11-03",
+    "isEnabled": true,
+    "type": "crypto",
+    "iexId": 10000010
+  }
+]

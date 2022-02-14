@@ -13,3 +13,6 @@ trades.
 - [x] Editing a portfolio with fields name, description
 - [x] Selling a stock, with fields for portfolio, stock, volume and price
 - [x] Buying a stock, with fields for portfolio, stock, volume and price
+- [x] Should only be able to buy a stock if one has enough funds
+- [x] Should only be able to sell a stock if one is currently holding enough
+      volume of the given stock
