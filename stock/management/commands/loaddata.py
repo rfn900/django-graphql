@@ -1,5 +1,5 @@
 from django.core.management.base import BaseCommand
-from api.models import Stock
+from stock.models import Stock
 import json
 
 class Command(BaseCommand):
