@@ -9,7 +9,7 @@ Make sure you have [docker](https://www.docker.com/) and [docker-compose](https:
 installed locally.
 
 - Clone this repository
-- Run `docker-compose up` from the repo's root directory
+- Run `docker-compose up -d` from the repo's root directory
 - Once the _build_ is done, go to `http://localhost:8000/graphql/` and run the
   queries described bellow
 
